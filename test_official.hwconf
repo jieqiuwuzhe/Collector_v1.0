@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="ASCII"?>
+<device:XMLDevice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:device="http://www.silabs.com/sls/hc/document/device.ecore" name="EFM32G280F128" partId="com.silabs.mcu.si32.efm32.efm32g.efm32g280f128">
+  <mode name="DefaultMode">
+    <property object="ADC0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="DMA" propertyId="ABPeripheral.included" value="true"/>
+    <property object="DefaultMode" propertyId="mode.diagramLocation" value="100, 100"/>
+    <property object="GPIO" propertyId="ABPeripheral.included" value="true"/>
+    <property object="I2C0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="LETIMER0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="LEUART0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="LFXO" propertyId="ABPeripheral.included" value="true"/>
+    <property object="LFXO" propertyId="lfxo.circuitcharacteristics.calculatedclpf" value="12.50"/>
+    <property object="LFXO" propertyId="lfxo.recommendedoscillatorboostsettings.lfxoboostpercent" value="100%"/>
+    <property object="LFXO" propertyId="lfxo.result.rnegesrmaxratio" value="15.574"/>
+    <property object="PA0" propertyId="ports.settings.custompinname" value="RTCSDA"/>
+    <property object="PA0" propertyId="ports.settings.pinmode" value="Wired-and pullup filter"/>
+    <property object="PA1" propertyId="ports.settings.custompinname" value="RTCSCL"/>
+    <property object="PA1" propertyId="ports.settings.pinmode" value="Wired-and pullup filter"/>
+    <property object="PA10" propertyId="ports.settings.custompinname" value="FLASH_SO3"/>
+    <property object="PA11" propertyId="ports.settings.custompinname" value="FLASH_RST"/>
+    <property object="PA9" propertyId="ports.settings.custompinname" value="FLASH_WP"/>
+    <property object="PB3" propertyId="ports.settings.custompinname" value="RF_MOSI"/>
+    <property object="PB3" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PB4" propertyId="ports.settings.custompinname" value="RF_MISO"/>
+    <property object="PB4" propertyId="ports.settings.pinmode" value="Input"/>
+    <property object="PB5" propertyId="ports.settings.custompinname" value="RF_SCLK"/>
+    <property object="PB5" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PB6" propertyId="ports.settings.custompinname" value="RF_NSEL"/>
+    <property object="PB6" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PC0" propertyId="ports.settings.custompinname" value="RF_SDN"/>
+    <property object="PC0" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PC1" propertyId="ports.settings.custompinname" value="RF_NIRQ"/>
+    <property object="PC1" propertyId="ports.settings.pinmode" value="Input"/>
+    <property object="PC10" propertyId="ports.settings.custompinname" value="WDT"/>
+    <property object="PC10" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PC13" propertyId="ports.settings.custompinname" value="BATCTRL"/>
+    <property object="PC14" propertyId="ports.settings.custompinname" value="GPRSCTRL"/>
+    <property object="PC14" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PC2" propertyId="ports.settings.custompinname" value="RF_GPIO0"/>
+    <property object="PC2" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PC3" propertyId="ports.settings.custompinname" value="RF_GPIO1"/>
+    <property object="PC3" propertyId="ports.settings.pinmode" value="Input"/>
+    <property object="PC4" propertyId="ports.settings.custompinname" value="RF_GPIO2"/>
+    <property object="PC4" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PC5" propertyId="ports.settings.custompinname" value="RF_GPIO3"/>
+    <property object="PC5" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PD0" propertyId="ports.settings.custompinname" value="FLASH_SI"/>
+    <property object="PD1" propertyId="ports.settings.custompinname" value="FLASH_SO"/>
+    <property object="PD2" propertyId="ports.settings.custompinname" value="FLASH_SCK"/>
+    <property object="PD3" propertyId="ports.settings.custompinname" value="FLASH_CS"/>
+    <property object="PD4" propertyId="ports.settings.custompinname" value="CAPADC"/>
+    <property object="PD5" propertyId="ports.settings.custompinname" value="BATADC"/>
+    <property object="PD6" propertyId="ports.settings.custompinname" value="SUNADC"/>
+    <property object="PE10" propertyId="ports.settings.custompinname" value="TX_WEIHU"/>
+    <property object="PE10" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PE11" propertyId="ports.settings.custompinname" value="RX_WEIHU"/>
+    <property object="PE11" propertyId="ports.settings.pinmode" value="Input"/>
+    <property object="PE14" propertyId="ports.settings.custompinname" value="TX_GPS"/>
+    <property object="PE14" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PE15" propertyId="ports.settings.custompinname" value="RX_GPS"/>
+    <property object="PE15" propertyId="ports.settings.pinmode" value="Input"/>
+    <property object="PF6" propertyId="ports.settings.custompinname" value="TX_GPRS"/>
+    <property object="PF6" propertyId="ports.settings.pinmode" value="Push-pull"/>
+    <property object="PF7" propertyId="ports.settings.custompinname" value="RX_GPRS"/>
+    <property object="PF7" propertyId="ports.settings.pinmode" value="Input"/>
+    <property object="PORTIO" propertyId="portio.adc0.enable.ch4" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.adc0.enable.ch5" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.adc0.enable.ch6" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.cmu.location.cmu" value="1"/>
+    <property object="PORTIO" propertyId="portio.dbg.enable.swo" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.dbg.location.dbg" value="1"/>
+    <property object="PORTIO" propertyId="portio.hfxo.enable.n" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.hfxo.enable.p" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.i2c0.enable.scl" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.i2c0.enable.sda" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.leuart0.enable.rx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.leuart0.enable.tx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.leuart0.location.leuart0" value="2"/>
+    <property object="PORTIO" propertyId="portio.leuart1.location.leuart1" value="1"/>
+    <property object="PORTIO" propertyId="portio.lfxo.enable.n" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.pcnt1.location.pcnt1" value="1"/>
+    <property object="PORTIO" propertyId="portio.timer1.enable.cc0" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.timer2.location.timer2" value="2"/>
+    <property object="PORTIO" propertyId="portio.uart0.enable.rx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.uart0.enable.tx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.usart0.enable.rx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.usart0.enable.tx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.usart2.enable.clk" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.usart2.enable.cs" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.usart2.enable.rx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.usart2.enable.tx" value="Enabled"/>
+    <property object="PORTIO" propertyId="portio.usart2.location.usart2" value="1"/>
+    <property object="RTC" propertyId="ABPeripheral.included" value="true"/>
+    <property object="TIMER0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="TIMER1" propertyId="ABPeripheral.included" value="true"/>
+    <property object="TIMER2" propertyId="ABPeripheral.included" value="true"/>
+    <property object="UART0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="USART0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="USART2" propertyId="ABPeripheral.included" value="true"/>
+    <property object="WDOG" propertyId="ABPeripheral.included" value="true"/>
+  </mode>
+  <modeTransition>
+    <property object="RESET &#x2192; DefaultMode" propertyId="modeTransition.target" value="DefaultMode"/>
+    <property object="RESET &#x2192; DefaultMode" propertyId="modeTransition.source" value="RESET"/>
+  </modeTransition>
+</device:XMLDevice>
