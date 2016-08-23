@@ -9,6 +9,8 @@
 #define VAR_H_
 
 #include "data_type.h"
+#include "stdint.h"
+
 
 //GPS信息
 typedef struct{
@@ -34,6 +36,7 @@ typedef struct
        FP32 cap_bat;
        FP32 xu_bat;
        INT8U call_15min ;//15min召测信号
+       uint32_t Ticks;//计数系统心跳，每个tick++
 //    INT8U gprs_ver_info[26];
 //    INT8U gprs_ccid[20];
 //    INT8U gprs_type[3];
@@ -97,17 +100,7 @@ typedef struct{
 }tag_data_In;
 
 //内部通信帧
-typedef struct{
-	INT8U pream[3];   //前导，暂定3字节,0x55
-	INT8U start_1;       //帧起始符 0x68
-	INT8U addr[5];      //地址域，5字节
-	INT8U start_2;       //帧起始符 0x68
-	INT8U ctrl;              //控制域
-	INT16U len;            //数据长度
-	tag_data_In data; //数据域
-	INT8U cs;                //校验码
-	INT8U end;             //0x16
-}tag_protocol_In;
+
 
 //SOE事件记录
 typedef struct{

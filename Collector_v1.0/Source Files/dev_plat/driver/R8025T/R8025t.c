@@ -11,9 +11,9 @@
 uint8_t drv_R8025T_read(uint8_t addr, uint8_t* data, uint8_t len)
 {
 	uint8_t  result = 0;
-	uint8_t  idx;
-	uint8_t  try_count = 0;
-	uint32_t star_tick;
+//	uint8_t  idx;
+//	uint8_t  try_count = 0;
+//	uint32_t star_tick;
 
 	/* Transfer structure */
 	  I2C_TransferSeq_TypeDef i2cTransfer;//
@@ -41,10 +41,10 @@ uint8_t drv_R8025T_read(uint8_t addr, uint8_t* data, uint8_t len)
  **********************************************************************/
 uint8_t drv_R8025T_write(uint8_t addr, uint8_t* data, uint8_t len)
 {
-	bool     result = false;
-	uint8_t  idx;
-	uint8_t  try_count;
-	uint32_t star_tick;
+//	bool     result = false;
+//	uint8_t  idx;
+//	uint8_t  try_count;
+//	uint32_t star_tick;
 
 	/* Transfer structure */
 	  I2C_TransferSeq_TypeDef i2cTransfer;//
@@ -70,7 +70,7 @@ uint8_t drv_R8025T_write(uint8_t addr, uint8_t* data, uint8_t len)
 void drv_R8025T_init(void)
 {
     uint8_t data[32];
-    uint8_t try_count=0;
+//    uint8_t try_count=0;
     uint8_t update_flag;
 
     drv_R8025T_read(0,data,32);

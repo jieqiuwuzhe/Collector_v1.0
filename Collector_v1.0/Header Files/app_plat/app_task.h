@@ -13,4 +13,6 @@ extern void Task_Fault_Handler(void *pvParameters);
 extern void Task_Report(void *pvParameters);
 extern void Task_Cycle_Service(void *pvParameters);
 
+extern void led_toggle();
+
 #endif /* APP_TASK_H_ */

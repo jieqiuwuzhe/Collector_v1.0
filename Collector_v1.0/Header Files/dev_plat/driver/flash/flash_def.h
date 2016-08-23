@@ -127,31 +127,31 @@
 #define    MX25_CMD_RSTQIO    0xF5    //RSTQIO (Reset Quad I/O)
 
 //FLASH_RST
-#define FLASH_RST_LOW     GPIO_PinOutClear(gpioPortD, 3)
-#define FLASH_RST_HIGH    GPIO_PinOutSet(gpioPortD, 3)
-#define FLASH_RST_INPUT   GPIO_PinModeSet(gpioPortD, 3, gpioModeInput, 0)
-#define FLASH_RST_OUTPUT  GPIO_PinModeSet(gpioPortD, 3, gpioModePushPull, 0)
+#define FLASH_RST_LOW         GPIO_PinOutClear(gpioPortA, 11)
+#define FLASH_RST_HIGH        GPIO_PinOutSet(gpioPortA, 11)
+#define FLASH_RST_INPUT      GPIO_PinModeSet(gpioPortA, 11, gpioModeInput, 0)
+#define FLASH_RST_OUTPUT  GPIO_PinModeSet(gpioPortA, 11, gpioModePushPull, 0)
 
 //Flash-CS
-#define SPICS_FLASH_LOW         GPIO_PinOutClear(gpioPortD, 2)
-#define SPICS_FLASH_HIGH        GPIO_PinOutSet(gpioPortD, 2)
-#define SPICS_FLASH_LAT_LOW     GPIO_PinOutClear(gpioPortD, 2)
-#define SPICS_FLASH_LAT_HIGH    GPIO_PinOutSet(gpioPortD, 2)
-#define SPICS_FLASH_INPUT       GPIO_PinModeSet(gpioPortD, 2, gpioModeInput, 0)
-#define SPICS_FLASH_OUTPUT      GPIO_PinModeSet(gpioPortD, 2, gpioModePushPull, 0)
+#define SPICS_FLASH_LOW         GPIO_PinOutClear(gpioPortD, 3)
+#define SPICS_FLASH_HIGH        GPIO_PinOutSet(gpioPortD, 3)
+#define SPICS_FLASH_LAT_LOW     GPIO_PinOutClear(gpioPortD, 3)
+#define SPICS_FLASH_LAT_HIGH    GPIO_PinOutSet(gpioPortD, 3)
+#define SPICS_FLASH_INPUT       GPIO_PinModeSet(gpioPortD, 3, gpioModeInput, 0)
+#define SPICS_FLASH_OUTPUT      GPIO_PinModeSet(gpioPortD, 3, gpioModePushPull, 0)
 
 //Flash-SCK
-#define SPISCK_LAT_LOW     GPIO_PinOutClear(gpioPortD, 5)
-#define SPISCK_LAT_HIGH    GPIO_PinOutSet(gpioPortD, 5)
-#define SPISCK_OUTPUT      GPIO_PinModeSet(gpioPortD, 5, gpioModePushPull, 0)
-#define SPISCK_INPUT       GPIO_PinModeSet(gpioPortD, 5, gpioModeInput, 0)
+#define SPISCK_LAT_LOW     GPIO_PinOutClear(gpioPortD, 2)
+#define SPISCK_LAT_HIGH    GPIO_PinOutSet(gpioPortD, 2)
+#define SPISCK_OUTPUT      GPIO_PinModeSet(gpioPortD, 2, gpioModePushPull, 0)
+#define SPISCK_INPUT           GPIO_PinModeSet(gpioPortD, 2, gpioModeInput, 0)
 
 //MCU-SO(FLASH侧SI管脚)
-#define SPISO             GPIO_PinOutGet(gpioPortD, 6)
-#define SPISO_LAT_LOW     GPIO_PinOutClear(gpioPortD, 6)
-#define SPISO_LAT_HIGH    GPIO_PinOutSet(gpioPortD, 6)
-#define SPISO_INPUT       GPIO_PinModeSet(gpioPortD, 6, gpioModeInput, 0)
-#define SPISO_OUTPUT      GPIO_PinModeSet(gpioPortD, 6, gpioModePushPull, 0)
+#define SPISO             GPIO_PinOutGet(gpioPortD, 0)
+#define SPISO_LAT_LOW     GPIO_PinOutClear(gpioPortD, 0)
+#define SPISO_LAT_HIGH    GPIO_PinOutSet(gpioPortD, 0)
+#define SPISO_INPUT       GPIO_PinModeSet(gpioPortD, 0, gpioModeInput, 0)
+#define SPISO_OUTPUT      GPIO_PinModeSet(gpioPortD, 0, gpioModePushPull, 0)
 
 //MCU-SI(FLASH侧SO管脚)
 #define SPISI             GPIO_PinInGet(gpioPortD, 1)//设置为获取输入电平状态
@@ -165,11 +165,11 @@
  ***********************************************************************/
 
 //FLASH_D0(FLASH侧SI管脚)
-#define SPI_D0             GPIO_PinInGet(gpioPortD, 6)
-#define SPI_D0_LOW         GPIO_PinOutClear(gpioPortD, 6)
-#define SPI_D0_HIGH        GPIO_PinOutSet(gpioPortD, 6)
-#define SPI_D0_INPUT       GPIO_PinModeSet(gpioPortD, 6, gpioModeInput, 0)
-#define SPI_D0_OUTPUT      GPIO_PinModeSet(gpioPortD, 6, gpioModePushPull, 0)
+#define SPI_D0             GPIO_PinInGet(gpioPortD, 0)
+#define SPI_D0_LOW         GPIO_PinOutClear(gpioPortD, 0)
+#define SPI_D0_HIGH        GPIO_PinOutSet(gpioPortD, 0)
+#define SPI_D0_INPUT       GPIO_PinModeSet(gpioPortD, 0, gpioModeInput, 0)
+#define SPI_D0_OUTPUT      GPIO_PinModeSet(gpioPortD, 0, gpioModePushPull, 0)
 
 //FLASH_D1(FLASH侧SO管脚)
 #define SPI_D1             GPIO_PinInGet(gpioPortD, 1)
@@ -179,18 +179,18 @@
 #define SPI_D1_OUTPUT      GPIO_PinModeSet(gpioPortD, 1, gpioModePushPull, 0)
 
 //FLASH D2(WP)
-#define SPI_D2             GPIO_PinInGet(gpioPortD, 0)
-#define SPI_D2_LOW         GPIO_PinOutClear(gpioPortD, 0)
-#define SPI_D2_HIGH        GPIO_PinOutSet(gpioPortD, 0)
-#define SPI_D2_INPUT       GPIO_PinModeSet(gpioPortD, 0, gpioModeInput, 0)
-#define SPI_D2_OUTPUT      GPIO_PinModeSet(gpioPortD, 0, gpioModePushPull, 0)
+#define SPI_D2             GPIO_PinInGet(gpioPortA, 9)
+#define SPI_D2_LOW         GPIO_PinOutClear(gpioPortA, 9)
+#define SPI_D2_HIGH        GPIO_PinOutSet(gpioPortA, 9)
+#define SPI_D2_INPUT       GPIO_PinModeSet(gpioPortA, 9, gpioModeInput, 0)
+#define SPI_D2_OUTPUT      GPIO_PinModeSet(gpioPortA, 9, gpioModePushPull, 0)
 
 //FLASH D3(SO3)
-#define SPI_D3             GPIO_PinInGet(gpioPortD, 4)
-#define SPI_D3_LOW         GPIO_PinOutClear(gpioPortD, 4)
-#define SPI_D3_HIGH        GPIO_PinOutSet(gpioPortD, 4)
-#define SPI_D3_INPUT       GPIO_PinModeSet(gpioPortD, 4, gpioModeInput, 0)
-#define SPI_D3_OUTPUT      GPIO_PinModeSet(gpioPortD, 4, gpioModePushPull, 0)
+#define SPI_D3             GPIO_PinInGet(gpioPortA, 10)
+#define SPI_D3_LOW         GPIO_PinOutClear(gpioPortA, 10)
+#define SPI_D3_HIGH        GPIO_PinOutSet(gpioPortA, 10)
+#define SPI_D3_INPUT       GPIO_PinModeSet(gpioPortA, 10, gpioModeInput, 0)
+#define SPI_D3_OUTPUT      GPIO_PinModeSet(gpioPortA, 10, gpioModePushPull, 0)
 
 /**********************************************************************************/
 

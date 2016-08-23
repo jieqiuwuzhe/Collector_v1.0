@@ -11,6 +11,7 @@
 #include "task.h"
 
 #include "em_device.h"
+#include "../../Header Files/app_plat/bsp.h"
 
 /* For backward compatibility, ensure configKERNEL_INTERRUPT_PRIORITY is
 defined.  The value should also ensure backward compatibility.
@@ -418,10 +419,13 @@ void xPortPendSVHandler( void )
 
 void xPortSysTickHandler( void )
 {
+	gSystemInfo.Ticks++;//ÐÄÌø
+
 	/* The SysTick runs at the lowest interrupt priority, so when this interrupt
 	executes all interrupts must be unmasked.  There is therefore no need to
 	save and then restore the interrupt mask value as its value is already
 	known. */
+	tpos_yield();
 	( void ) portSET_INTERRUPT_MASK_FROM_ISR();
 	{
 		/* Increment the RTOS tick. */

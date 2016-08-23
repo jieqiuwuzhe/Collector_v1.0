@@ -319,7 +319,7 @@ extern void USART1_enter_DefaultMode_from_RESET(void) {
 }
 
 //================================================================================
-// USART2_enter_DefaultMode_from_RESET-RF
+// USART2_enter_DefaultMode_from_RESET-RF4460
 //================================================================================
 extern void USART2_enter_DefaultMode_from_RESET(void) {
 
@@ -342,7 +342,6 @@ extern void USART2_enter_DefaultMode_from_RESET(void) {
 
 
 	// [USART_InitAsync]$
-
 }
 
 //================================================================================
@@ -357,10 +356,10 @@ extern void UART0_enter_DefaultMode_from_RESET(void) {
 
 	USART_InitAsync(UART0, &initasync);
 	// [UART_InitAsync]$
-//	NVIC_ClearPendingIRQ(UART0_RX_IRQn);
-//	NVIC_EnableIRQ(UART0_RX_IRQn);
-//	NVIC_EnableIRQ(UART0_TX_IRQn);
-//	UART0->IEN = UART_IEN_TXC | UART_IEN_RXDATAV;//打开发送和接受中断
+	NVIC_ClearPendingIRQ(UART0_RX_IRQn);
+	NVIC_EnableIRQ(UART0_RX_IRQn);
+	NVIC_EnableIRQ(UART0_TX_IRQn);
+	UART0->IEN = UART_IEN_TXC | UART_IEN_RXDATAV;//打开发送和接受中断
 
 	GPIO_PinModeSet(TX_GPRS_PORT, TX_GPRS_PIN, gpioModePushPull, 1);
 	GPIO_PinModeSet(RX_GPRS_PORT, RX_GPRS_PIN, gpioModeInputPull, 1);
@@ -391,10 +390,9 @@ extern void LEUART0_enter_DefaultMode_from_RESET(void) {
 	GPIO_PinModeSet(TX_GPS_PORT, TX_GPS_PIN, gpioModePushPull,   1);
 	GPIO_PinModeSet(RX_GPS_PORT, RX_GPS_PIN, gpioModeInputPull, 1);
 
-	LEUART0->IFC = _LEUART_IFC_MASK;//中断标志清除寄存器
 	NVIC_ClearPendingIRQ(LEUART0_IRQn);
 	NVIC_EnableIRQ(LEUART0_IRQn);
-	LEUART0->IEN = LEUART_IEN_RXDATAV;
+	LEUART0->IEN = LEUART_IEN_RXDATAV | LEUART_IEN_TXC ; //打开接收中断与发送完成中断
 
 	LEUART0->ROUTE = LEUART_ROUTE_TXPEN | LEUART_ROUTE_RXPEN | LEUART_ROUTE_LOCATION_LOC2;
 
@@ -545,15 +543,19 @@ extern void TIMER1_enter_DefaultMode_from_RESET(void) {
 	TIMER_TopSet(TIMER1, 7000000/PWM_FREQ); //PWM频率设定，此处7M是timer1时钟频率
 
 	/* Set compare value starting at 0 - it will be incremented in the interrupt handler */
-	TIMER_CompareBufSet(TIMER1, 0, 0);
+	TIMER_CompareBufSet(TIMER1, 0, ((7000000/PWM_FREQ)*50/100));
 
 	/* Enable overflow interrupt */
-	TIMER_IntEnable(TIMER1, TIMER_IF_OF);
+//	TIMER_IntEnable(TIMER1, TIMER_IF_OF);
 
 	/* Enable TIMER0 interrupt vector in NVIC */
-	NVIC_EnableIRQ(TIMER1_IRQn);
+//	NVIC_EnableIRQ(TIMER1_IRQn);
 
 	TIMER_Init(TIMER1, &init);
+
+
+	TIMER1->CMD = 0b01;
+
 }
 
 //================================================================================
@@ -733,6 +735,7 @@ extern void PORTIO_enter_DefaultMode_from_RESET(void) {
 			| USART_ROUTE_TXPEN;
 	// [Route Configuration]$
 
+	  //PWM发生引脚
 	  GPIO_PinModeSet(gpioPortC, 13, gpioModePushPull, 0);
 
 
@@ -742,6 +745,10 @@ extern void PORTIO_enter_DefaultMode_from_RESET(void) {
 	   NVIC_EnableIRQ(GPIO_ODD_IRQn);
 	   //设置PA15为下降沿中断方式
 	   GPIO_IntConfig(gpioPortA, 15, false, true, true);
+
+	   //4460的GPIO2为下降沿中断
+	   NVIC_EnableIRQ(GPIO_EVEN_IRQn);
+	   GPIO_IntConfig(gpioPortC, 2, false, true, true);
 
 }
 

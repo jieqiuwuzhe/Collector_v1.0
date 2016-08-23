@@ -1054,6 +1054,7 @@ BaseType_t xTimerGenericCommand( TimerHandle_t xTimer, const BaseType_t xCommand
 
 void Create_10ms_Timer(void);
 INT32U system_get_tick10ms (void);
+void delay(uint16_t ticks);
 
 
 #ifdef __cplusplus

@@ -861,3 +861,20 @@ INT32U system_get_tick10ms (void)
 {
     return systick_in_10ms;
 }
+
+
+//======================================
+//    添加一个系统心跳为单位的延时函数
+//======================================
+void delay(uint16_t ticks)
+{
+	uint32_t i = gSystemInfo.Ticks;
+	if(gSystemInfo.Ticks - i < 0)
+	{
+		while(((65535-i) + gSystemInfo.Ticks) <= ticks );
+	}
+	else
+	{
+		while((gSystemInfo.Ticks - i) <= ticks );
+	}
+}

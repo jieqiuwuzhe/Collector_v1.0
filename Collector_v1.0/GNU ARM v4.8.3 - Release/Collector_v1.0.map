@@ -1,0 +1,2230 @@
+Archive member included because of file (symbol)
+
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+                              ./Source Files/app_plat/app_task.o (__aeabi_ui2d)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_muldivdf3.o)
+                              ./Source Files/app_plat/app_task.o (__aeabi_dmul)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+                              ./Source Files/app_plat/app_task.o (__aeabi_d2f)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+                              ./Source Files/dev_plat/fun/fun_data.o (__aeabi_fsub)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+                              ./Source Files/dev_plat/fun/fun_data.o (__aeabi_fmul)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_cmpsf2.o)
+                              ./Source Files/dev_plat/fun/fun_data.o (__aeabi_fcmpge)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+                              ./Source Files/dev_plat/fun/fun_data.o (__aeabi_f2uiz)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+                              ./emlib/em_usart.o (__aeabi_uldivmod)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(bpabi.o)
+                              c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_dvmd_tls.o)
+                              c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_divdi3.o)
+                              c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(bpabi.o) (__divdi3)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_udivdi3.o)
+                              c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(bpabi.o) (__udivdi3)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-exit.o)
+                              c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+                              c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-exit.o) (_global_impure_ptr)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-init.o)
+                              c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcmp.o)
+                              ./Source Files/dev_plat/driver/GPS/GPS.o (memcmp)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcpy-stub.o)
+                              ./Source Files/dev_plat/tpos/tpos_queue.o (memcpy)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memset.o)
+                              c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+                              c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+Si446xModemPend0    0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+gSystemInfo         0x24              ./Source Files/dev_plat/var.o
+Si446xChipPend4     0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Si446xChipPend1     0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+SystemCoreClock     0x4               ./CMSIS/efm32g/system_efm32g.o
+Si446xPhPend1       0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Si446xModemPend3    0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+xQueueRegistry      0x50              ./Source Files/dev_plat/tpos/tpos_queue.o
+Si446xPhPend2       0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Si446xModemPend6    0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+DrvGPS232Channel    0x4c4             ./Source Files/dev_plat/driver/RS232/rs_232.o
+Si446xChipPend2     0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Si446xChipPend0     0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Sem_duanlu          0x4               ./Source Files/app_plat/main.o
+gps_tmp_buff        0x80              ./Source Files/dev_plat/driver/GPS/GPS.o
+dmaControlBlock     0x100             ./emlib/dmactrl.o
+Si446xModemPend1    0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+i                   0x4               ./Source Files/app_plat/main.o
+Si446xPhPend3       0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Si446xPhPend6       0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Sem_lowbat          0x4               ./Source Files/app_plat/main.o
+Pro2Cmd             0x10              ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+SysTimer_10ms       0x4               ./Source Files/dev_plat/tpos/tpos_timers.o
+rtmp                0xc8              ./Source Files/dev_plat/driver/RS232/rs_232.o
+Si446xChipPend6     0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Si446xChipPend3     0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Si446xModemPend4    0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Sem_jiedi           0x4               ./Source Files/app_plat/main.o
+size                0x2               ./Source Files/dev_plat/driver/RS232/rs_232.o
+Si446xChipPend7     0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Si446xChipPend5     0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Si446xPhPend5       0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+wtmp                0xc8              ./Source Files/dev_plat/driver/RS232/rs_232.o
+Si446xPhPend0       0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Si446xModemPend7    0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+fixRadioPacket      0x40              ./Source Files/dev_plat/driver/RF/radio_hal.o
+Si446xModemPend2    0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Si446xPhPend4       0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Si446xModemPend5    0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Si446xPhPend7       0x1               ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+Si446xCmd           0x10              ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .data          0x00000000        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .text          0x00000000        0x0 ./emlib/dmactrl.o
+ .data          0x00000000        0x0 ./emlib/dmactrl.o
+ .bss           0x00000000        0x0 ./emlib/dmactrl.o
+ .text          0x00000000        0x0 ./emlib/em_adc.o
+ .data          0x00000000        0x0 ./emlib/em_adc.o
+ .bss           0x00000000        0x0 ./emlib/em_adc.o
+ .text.ADC_InitSingle
+                0x00000000       0xcc ./emlib/em_adc.o
+ .text.ADC_Reset
+                0x00000000       0x64 ./emlib/em_adc.o
+ .text          0x00000000        0x0 ./emlib/em_cmu.o
+ .data          0x00000000        0x0 ./emlib/em_cmu.o
+ .bss           0x00000000        0x0 ./emlib/em_cmu.o
+ .text.CMU_Calibrate
+                0x00000000       0x58 ./emlib/em_cmu.o
+ .text.CMU_CalibrateCountGet
+                0x00000000       0x18 ./emlib/em_cmu.o
+ .text.CMU_ClockDivGet
+                0x00000000       0xa0 ./emlib/em_cmu.o
+ .text.CMU_ClockSelectGet
+                0x00000000       0x7c ./emlib/em_cmu.o
+ .text.CMU_FreezeEnable
+                0x00000000       0x1c ./emlib/em_cmu.o
+ .text.CMU_HFRCOBandGet
+                0x00000000       0x10 ./emlib/em_cmu.o
+ .text.CMU_HFRCOStartupDelayGet
+                0x00000000       0x10 ./emlib/em_cmu.o
+ .text.CMU_HFRCOStartupDelaySet
+                0x00000000       0x18 ./emlib/em_cmu.o
+ .text.CMU_HFXOInit
+                0x00000000       0x40 ./emlib/em_cmu.o
+ .text.CMU_LCDClkFDIVGet
+                0x00000000        0x4 ./emlib/em_cmu.o
+ .text.CMU_LCDClkFDIVSet
+                0x00000000        0x4 ./emlib/em_cmu.o
+ .text.CMU_LFXOInit
+                0x00000000       0x3c ./emlib/em_cmu.o
+ .text.CMU_OscillatorTuningGet
+                0x00000000       0x30 ./emlib/em_cmu.o
+ .text.CMU_OscillatorTuningSet
+                0x00000000       0x44 ./emlib/em_cmu.o
+ .text.CMU_PCNTClockExternalGet
+                0x00000000       0x30 ./emlib/em_cmu.o
+ .text.CMU_PCNTClockExternalSet
+                0x00000000       0x10 ./emlib/em_cmu.o
+ .rodata.CSWTCH.23
+                0x00000000        0x4 ./emlib/em_cmu.o
+ .rodata.CSWTCH.24
+                0x00000000        0xc ./emlib/em_cmu.o
+ .text          0x00000000        0x0 ./emlib/em_dma.o
+ .data          0x00000000        0x0 ./emlib/em_dma.o
+ .bss           0x00000000        0x0 ./emlib/em_dma.o
+ .text.DMA_ActivateAuto
+                0x00000000       0x78 ./emlib/em_dma.o
+ .text.DMA_ActivateBasic
+                0x00000000       0x88 ./emlib/em_dma.o
+ .text.DMA_ActivatePingPong
+                0x00000000      0x100 ./emlib/em_dma.o
+ .text.DMA_ActivateScatterGather
+                0x00000000       0x80 ./emlib/em_dma.o
+ .text.DMA_CfgDescrScatterGather
+                0x00000000       0x70 ./emlib/em_dma.o
+ .text.DMA_ChannelEnable
+                0x00000000       0x18 ./emlib/em_dma.o
+ .text.DMA_ChannelEnabled
+                0x00000000       0x14 ./emlib/em_dma.o
+ .text.DMA_ChannelRequestEnable
+                0x00000000       0x24 ./emlib/em_dma.o
+ .text.DMA_RefreshPingPong
+                0x00000000       0x78 ./emlib/em_dma.o
+ .text.DMA_Reset
+                0x00000000       0x7c ./emlib/em_dma.o
+ .text          0x00000000        0x0 ./emlib/em_emu.o
+ .data          0x00000000        0x0 ./emlib/em_emu.o
+ .bss           0x00000000        0x0 ./emlib/em_emu.o
+ .text.EMU_EnterEM4
+                0x00000000       0x30 ./emlib/em_emu.o
+ .text.EMU_MemPwrDown
+                0x00000000        0xc ./emlib/em_emu.o
+ .text.EMU_EM23Init
+                0x00000000       0x24 ./emlib/em_emu.o
+ .text          0x00000000        0x0 ./emlib/em_gpio.o
+ .data          0x00000000        0x0 ./emlib/em_gpio.o
+ .bss           0x00000000        0x0 ./emlib/em_gpio.o
+ .text.GPIO_DbgLocationSet
+                0x00000000       0x18 ./emlib/em_gpio.o
+ .text.GPIO_DriveModeSet
+                0x00000000       0x1c ./emlib/em_gpio.o
+ .text.GPIO_PinModeGet
+                0x00000000       0x30 ./emlib/em_gpio.o
+ .text          0x00000000        0x0 ./emlib/em_i2c.o
+ .data          0x00000000        0x0 ./emlib/em_i2c.o
+ .bss           0x00000000        0x0 ./emlib/em_i2c.o
+ .text.I2C_BusFreqGet
+                0x00000000       0x2c ./emlib/em_i2c.o
+ .text.I2C_BusFreqSet
+                0x00000000       0x64 ./emlib/em_i2c.o
+ .text.I2C_Enable
+                0x00000000        0xc ./emlib/em_i2c.o
+ .text.I2C_Reset
+                0x00000000       0x18 ./emlib/em_i2c.o
+ .text.I2C_Transfer
+                0x00000000      0x28c ./emlib/em_i2c.o
+ .text.I2C_TransferInit
+                0x00000000      0x318 ./emlib/em_i2c.o
+ .bss.i2cTransfer
+                0x00000000        0xc ./emlib/em_i2c.o
+ .text          0x00000000        0x0 ./emlib/em_int.o
+ .data          0x00000000        0x0 ./emlib/em_int.o
+ .bss           0x00000000        0x0 ./emlib/em_int.o
+ .text          0x00000000        0x0 ./emlib/em_letimer.o
+ .data          0x00000000        0x0 ./emlib/em_letimer.o
+ .bss           0x00000000        0x0 ./emlib/em_letimer.o
+ .text.LETIMER_CompareGet
+                0x00000000       0x14 ./emlib/em_letimer.o
+ .text.LETIMER_CompareSet
+                0x00000000       0x34 ./emlib/em_letimer.o
+ .text.LETIMER_Enable
+                0x00000000       0x24 ./emlib/em_letimer.o
+ .text.LETIMER_FreezeEnable
+                0x00000000       0x14 ./emlib/em_letimer.o
+ .text.LETIMER_Init
+                0x00000000       0xb8 ./emlib/em_letimer.o
+ .text.LETIMER_RepeatGet
+                0x00000000       0x14 ./emlib/em_letimer.o
+ .text.LETIMER_RepeatSet
+                0x00000000       0x34 ./emlib/em_letimer.o
+ .text.LETIMER_Reset
+                0x00000000       0x28 ./emlib/em_letimer.o
+ .debug_info    0x00000000      0x674 ./emlib/em_letimer.o
+ .debug_abbrev  0x00000000      0x290 ./emlib/em_letimer.o
+ .debug_loc     0x00000000      0x41f ./emlib/em_letimer.o
+ .debug_aranges
+                0x00000000       0x58 ./emlib/em_letimer.o
+ .debug_ranges  0x00000000      0x100 ./emlib/em_letimer.o
+ .debug_line    0x00000000      0x32f ./emlib/em_letimer.o
+ .debug_str     0x00000000      0x40f ./emlib/em_letimer.o
+ .comment       0x00000000       0x71 ./emlib/em_letimer.o
+ .ARM.attributes
+                0x00000000       0x33 ./emlib/em_letimer.o
+ .debug_frame   0x00000000       0xb4 ./emlib/em_letimer.o
+ .text          0x00000000        0x0 ./emlib/em_leuart.o
+ .data          0x00000000        0x0 ./emlib/em_leuart.o
+ .bss           0x00000000        0x0 ./emlib/em_leuart.o
+ .text.LEUART_BaudrateCalc
+                0x00000000       0x20 ./emlib/em_leuart.o
+ .text.LEUART_BaudrateGet
+                0x00000000       0x4c ./emlib/em_leuart.o
+ .text.LEUART_BaudrateSet
+                0x00000000       0x5c ./emlib/em_leuart.o
+ .text.LEUART_Enable
+                0x00000000       0x1c ./emlib/em_leuart.o
+ .text.LEUART_FreezeEnable
+                0x00000000       0x14 ./emlib/em_leuart.o
+ .text.LEUART_Rx
+                0x00000000        0xc ./emlib/em_leuart.o
+ .text.LEUART_RxExt
+                0x00000000        0xc ./emlib/em_leuart.o
+ .text.LEUART_TxExt
+                0x00000000       0x18 ./emlib/em_leuart.o
+ .text.LEUART_TxDmaInEM2Enable
+                0x00000000       0x28 ./emlib/em_leuart.o
+ .text.LEUART_RxDmaInEM2Enable
+                0x00000000       0x28 ./emlib/em_leuart.o
+ .text          0x00000000        0x0 ./emlib/em_rtc.o
+ .data          0x00000000        0x0 ./emlib/em_rtc.o
+ .bss           0x00000000        0x0 ./emlib/em_rtc.o
+ .text.RTC_FreezeEnable
+                0x00000000       0x1c ./emlib/em_rtc.o
+ .text.RTC_Reset
+                0x00000000       0x28 ./emlib/em_rtc.o
+ .text.RTC_CounterReset
+                0x00000000       0x70 ./emlib/em_rtc.o
+ .text          0x00000000        0x0 ./emlib/em_system.o
+ .data          0x00000000        0x0 ./emlib/em_system.o
+ .bss           0x00000000        0x0 ./emlib/em_system.o
+ .text.SYSTEM_GetCalibrationValue
+                0x00000000       0x28 ./emlib/em_system.o
+ .text          0x00000000        0x0 ./emlib/em_timer.o
+ .data          0x00000000        0x0 ./emlib/em_timer.o
+ .bss           0x00000000        0x0 ./emlib/em_timer.o
+ .text.TIMER_InitDTI
+                0x00000000       0xf0 ./emlib/em_timer.o
+ .text.TIMER_Reset
+                0x00000000       0x48 ./emlib/em_timer.o
+ .text          0x00000000        0x0 ./emlib/em_usart.o
+ .data          0x00000000        0x0 ./emlib/em_usart.o
+ .bss           0x00000000        0x0 ./emlib/em_usart.o
+ .text.USART_BaudrateAsyncSet
+                0x00000000       0x68 ./emlib/em_usart.o
+ .text.USART_BaudrateCalc
+                0x00000000       0x98 ./emlib/em_usart.o
+ .text.USART_BaudrateGet
+                0x00000000       0xc0 ./emlib/em_usart.o
+ .text.USART_BaudrateSyncSet
+                0x00000000       0x3c ./emlib/em_usart.o
+ .text.USART_Enable
+                0x00000000       0x10 ./emlib/em_usart.o
+ .text.USARTn_InitIrDA
+                0x00000000       0xd8 ./emlib/em_usart.o
+ .text.USART_Reset
+                0x00000000       0x30 ./emlib/em_usart.o
+ .text.USART_Rx
+                0x00000000        0xc ./emlib/em_usart.o
+ .text.USART_RxDouble
+                0x00000000        0xc ./emlib/em_usart.o
+ .text.USART_RxDoubleExt
+                0x00000000        0xc ./emlib/em_usart.o
+ .text.USART_RxExt
+                0x00000000        0xc ./emlib/em_usart.o
+ .text.USART_SpiTransfer
+                0x00000000       0x14 ./emlib/em_usart.o
+ .text.USART_TxDouble
+                0x00000000        0xc ./emlib/em_usart.o
+ .text.USART_TxDoubleExt
+                0x00000000        0xc ./emlib/em_usart.o
+ .text.USART_TxExt
+                0x00000000        0xc ./emlib/em_usart.o
+ .text          0x00000000        0x0 ./emlib/em_wdog.o
+ .data          0x00000000        0x0 ./emlib/em_wdog.o
+ .bss           0x00000000        0x0 ./emlib/em_wdog.o
+ .text.WDOGn_Enable
+                0x00000000       0x20 ./emlib/em_wdog.o
+ .text.WDOGn_Lock
+                0x00000000       0x14 ./emlib/em_wdog.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/var.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/var.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/var.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/tpos/low_power_tick_management.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/tpos/low_power_tick_management.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/tpos/low_power_tick_management.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/tpos/sleep.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/tpos/sleep.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/tpos/sleep.o
+ .text.SLEEP_ForceSleepInEM4
+                0x00000000       0x30 ./Source Files/dev_plat/tpos/sleep.o
+ .text.SLEEP_SleepBlockEnd
+                0x00000000       0x2c ./Source Files/dev_plat/tpos/sleep.o
+ .text.SLEEP_LowestEnergyModeGet
+                0x00000000       0x1c ./Source Files/dev_plat/tpos/sleep.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .text.xCoRoutineCreate
+                0x00000000       0xb4 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .text.vCoRoutineAddToDelayedList
+                0x00000000       0x4c ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .text.vCoRoutineSchedule
+                0x00000000      0x1a0 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .text.xCoRoutineRemoveFromEventList
+                0x00000000       0x34 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .bss.xDelayedCoRoutineList1
+                0x00000000       0x14 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .bss.xPassedTicks
+                0x00000000        0x4 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .bss.xPendingReadyCoRoutineList
+                0x00000000       0x14 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .bss.pxCurrentCoRoutine
+                0x00000000        0x4 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .bss.xDelayedCoRoutineList2
+                0x00000000       0x14 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .bss.xCoRoutineTickCount
+                0x00000000        0x4 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .bss.xLastTickCount
+                0x00000000        0x4 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .bss.pxDelayedCoRoutineList
+                0x00000000        0x4 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .bss.pxReadyCoRoutineLists
+                0x00000000       0x14 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .bss.uxTopCoRoutineReadyPriority
+                0x00000000        0x4 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .bss.pxOverflowDelayedCoRoutineList
+                0x00000000        0x4 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .debug_info    0x00000000      0x7a2 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .debug_abbrev  0x00000000      0x298 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .debug_loc     0x00000000      0x2e5 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .debug_aranges
+                0x00000000       0x38 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .debug_ranges  0x00000000       0xb8 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .debug_line    0x00000000      0x2bb ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .debug_str     0x00000000      0x5b7 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .ARM.attributes
+                0x00000000       0x33 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .debug_frame   0x00000000       0x94 ./Source Files/dev_plat/tpos/tpos_croutine.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .text.vPortInitialiseBlocks
+                0x00000000        0xc ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .text.xPortGetFreeHeapSize
+                0x00000000       0x10 ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_list.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_list.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_list.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_port.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_port.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_port.o
+ .text.vPortEndScheduler
+                0x00000000        0x4 ./Source Files/dev_plat/tpos/tpos_port.o
+ .text.vPortSetupTimerInterrupt
+                0x00000000       0x18 ./Source Files/dev_plat/tpos/tpos_port.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .text.xQueueGenericReset
+                0x00000000       0x64 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .text.xQueueCreateMutex
+                0x00000000       0x44 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000       0x7c ./Source Files/dev_plat/tpos/tpos_queue.o
+ .text.xQueuePeekFromISR
+                0x00000000       0x4c ./Source Files/dev_plat/tpos/tpos_queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x14 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x18 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000        0x4 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .text.vQueueDelete
+                0x00000000       0x88 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000        0xc ./Source Files/dev_plat/tpos/tpos_queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000        0xc ./Source Files/dev_plat/tpos/tpos_queue.o
+ .text.vQueueUnregisterQueue
+                0x00000000       0x74 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.vTaskDelete
+                0x00000000       0xdc ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.uxTaskPriorityGet
+                0x00000000       0x28 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.vTaskPrioritySet
+                0x00000000       0xa8 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.vTaskSuspend
+                0x00000000      0x120 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.vTaskResume
+                0x00000000       0x70 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.xTaskResumeFromISR
+                0x00000000       0xa4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x18 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x1c ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000        0xc ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.tpos_delayUntil
+                0x00000000       0xb0 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.tpos_delay
+                0x00000000       0x94 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0xa8 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.xTaskRemoveFromUnorderedEventList
+                0x00000000       0x68 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000        0xc ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x18 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .text.xTimerCreate
+                0x00000000       0xa8 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .text.pcTimerGetTimerName
+                0x00000000        0x4 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .text.xTimerIsTimerActive
+                0x00000000       0x18 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .text.pvTimerGetTimerID
+                0x00000000        0x4 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .text.system_get_tick10ms
+                0x00000000        0xc ./Source Files/dev_plat/tpos/tpos_timers.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/fun/fun_data.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/fun/fun_data.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/fun/fun_data.o
+ .text.BCD2byte
+                0x00000000       0x14 ./Source Files/dev_plat/fun/fun_data.o
+ .text.byte2BCD
+                0x00000000       0x1c ./Source Files/dev_plat/fun/fun_data.o
+ .text.RTCBCD2DateTime
+                0x00000000       0x80 ./Source Files/dev_plat/fun/fun_data.o
+ .text.DateTime2RTCBCD
+                0x00000000       0xa8 ./Source Files/dev_plat/fun/fun_data.o
+ .text.is_valid_bcd
+                0x00000000       0x3c ./Source Files/dev_plat/fun/fun_data.o
+ .text.str2uint
+                0x00000000       0x50 ./Source Files/dev_plat/fun/fun_data.o
+ .text.str2uint_gps
+                0x00000000       0x4c ./Source Files/dev_plat/fun/fun_data.o
+ .text.Float2Char
+                0x00000000      0x160 ./Source Files/dev_plat/fun/fun_data.o
+ .debug_info    0x00000000      0x56b ./Source Files/dev_plat/fun/fun_data.o
+ .debug_abbrev  0x00000000      0x1ee ./Source Files/dev_plat/fun/fun_data.o
+ .debug_loc     0x00000000      0x72f ./Source Files/dev_plat/fun/fun_data.o
+ .debug_aranges
+                0x00000000       0x58 ./Source Files/dev_plat/fun/fun_data.o
+ .debug_ranges  0x00000000       0x60 ./Source Files/dev_plat/fun/fun_data.o
+ .debug_line    0x00000000      0x30f ./Source Files/dev_plat/fun/fun_data.o
+ .debug_str     0x00000000      0x29b ./Source Files/dev_plat/fun/fun_data.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/fun/fun_data.o
+ .ARM.attributes
+                0x00000000       0x33 ./Source Files/dev_plat/fun/fun_data.o
+ .debug_frame   0x00000000       0xc0 ./Source Files/dev_plat/fun/fun_data.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/fun/fun_str.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/fun/fun_str.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/fun/fun_str.o
+ .text.compare_string
+                0x00000000       0x48 ./Source Files/dev_plat/fun/fun_str.o
+ .text.compare_string_reverse
+                0x00000000       0x44 ./Source Files/dev_plat/fun/fun_str.o
+ .text.mem_cpy  0x00000000       0x78 ./Source Files/dev_plat/fun/fun_str.o
+ .text.mem_cpy_reverse
+                0x00000000       0x1c ./Source Files/dev_plat/fun/fun_str.o
+ .text.buffer_reverse
+                0x00000000       0x28 ./Source Files/dev_plat/fun/fun_str.o
+ .text.trimspace
+                0x00000000       0x64 ./Source Files/dev_plat/fun/fun_str.o
+ .text.str_find_again
+                0x00000000       0x6c ./Source Files/dev_plat/fun/fun_str.o
+ .debug_info    0x00000000      0x363 ./Source Files/dev_plat/fun/fun_str.o
+ .debug_abbrev  0x00000000      0x108 ./Source Files/dev_plat/fun/fun_str.o
+ .debug_loc     0x00000000      0x4e7 ./Source Files/dev_plat/fun/fun_str.o
+ .debug_aranges
+                0x00000000       0x50 ./Source Files/dev_plat/fun/fun_str.o
+ .debug_ranges  0x00000000       0x40 ./Source Files/dev_plat/fun/fun_str.o
+ .debug_line    0x00000000      0x2ad ./Source Files/dev_plat/fun/fun_str.o
+ .debug_str     0x00000000      0x29c ./Source Files/dev_plat/fun/fun_str.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/fun/fun_str.o
+ .ARM.attributes
+                0x00000000       0x33 ./Source Files/dev_plat/fun/fun_str.o
+ .debug_frame   0x00000000       0xcc ./Source Files/dev_plat/fun/fun_str.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.spi_open_flash
+                0x00000000       0x60 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.spi_close_flash
+                0x00000000       0x4c ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.enter_quad
+                0x00000000       0x38 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.exit_quad
+                0x00000000       0x1c ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.spi_writebyte
+                0x00000000      0x10c ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.spi_readbyte
+                0x00000000       0xe8 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.spi_read_dummy
+                0x00000000       0x1c ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.quad_readbyte
+                0x00000000       0x94 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.quad_writebyte
+                0x00000000       0x94 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.IS_FLASH_READY
+                0x00000000      0x224 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_WR_ENABLE
+                0x00000000      0x154 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_WR_DISABLE
+                0x00000000      0x14c ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_WR_COMPLETE
+                0x00000000      0x210 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25L256_FLASH_INIT
+                0x00000000      0x698 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_MEM_RST
+                0x00000000      0x3d4 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_RDID
+                0x00000000      0x158 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_RDSR
+                0x00000000      0x21c ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_WRSR
+                0x00000000      0x350 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.SET_4B_MODE
+                0x00000000       0xb0 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_SECTOR_ERASE_4B
+                0x00000000      0x370 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_B32K_ERASE_4B
+                0x00000000      0x370 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_B64K_ERASE_4B
+                0x00000000      0x368 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_CHIP_ERASE
+                0x00000000      0x348 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_BYTE_READ4B
+                0x00000000      0x184 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_BYTE_PP4B
+                0x00000000      0x388 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.flash_waitidle
+                0x00000000      0x288 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_QUAD_BYTE_READ4B
+                0x00000000      0x1c4 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text.MX25_QUAD_BYTE_PP4B
+                0x00000000      0x434 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .debug_info    0x00000000    0x1179d ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .debug_abbrev  0x00000000      0x3ba ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .debug_loc     0x00000000     0xc7dd ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .debug_aranges
+                0x00000000       0xf8 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .debug_ranges  0x00000000     0x2748 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .debug_line    0x00000000     0x328f ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .debug_str     0x00000000      0x6a4 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .ARM.attributes
+                0x00000000       0x33 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .debug_frame   0x00000000      0x320 ./Source Files/dev_plat/driver/flash/flash_fun.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .text.Uart_Write
+                0x00000000       0x70 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .text.Uart_Read
+                0x00000000       0x34 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .text.gps_232_init
+                0x00000000       0x10 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .text.gps_232_read_byte
+                0x00000000       0x30 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .bss.rwflag    0x00000000        0x1 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Radio_PowerUp
+                0x00000000        0x4 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Radio_Init
+                0x00000000       0x2c ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Radio_StartRx
+                0x00000000       0x30 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Radio_LDC_StartRx
+                0x00000000       0x30 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Radio_StartTx
+                0x00000000       0x40 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Radio_LongTx
+                0x00000000      0x108 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Radio_Tx_Repeat
+                0x00000000      0x1e4 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Wait_Radio_Transmitted
+                0x00000000       0x28 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Radio_CheckTransmitted
+                0x00000000       0x2c ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Radio_CheckReceived
+                0x00000000       0x74 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Enter_LDCRX_mode
+                0x00000000       0xc0 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Exit_LDCRX_mode
+                0x00000000       0xc8 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Enter_LDCTX_Mode
+                0x00000000       0xb8 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Exit_LDCTX_Mode
+                0x00000000       0xb8 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Set_LDC_RX_SLEEP_Time
+                0x00000000      0x134 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Wait_Channeldet_Idle
+                0x00000000       0x10 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Set_RSSI_Thresh
+                0x00000000       0xb0 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Set_TX_FIFO_ALMOST_EMPTY_Thresh
+                0x00000000       0xb0 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Preamble_Config
+                0x00000000       0xd0 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Radio_Cmd
+                0x00000000       0xb0 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Radio_StartSleep
+                0x00000000        0x8 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.Radio_ReadyTx
+                0x00000000        0x8 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_comm_GetResp
+                0x00000000       0x5c ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_comm_SendCmd
+                0x00000000       0x78 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_comm_ReadData
+                0x00000000       0x80 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_comm_WriteData
+                0x00000000       0x80 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_comm_PollCTS
+                0x00000000       0x4c ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_comm_ClearCTS
+                0x00000000        0xc ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_comm_SendCmdGetResp
+                0x00000000       0xc0 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_hal_AssertShutdown
+                0x00000000        0xc ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_hal_DeassertShutdown
+                0x00000000        0xc ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_hal_ClearNsel
+                0x00000000        0xc ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_hal_SetNsel
+                0x00000000        0xc ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_hal_NirqLevel
+                0x00000000        0xc ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_hal_SpiWriteByte
+                0x00000000        0x4 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_hal_SpiReadByte
+                0x00000000        0x8 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_hal_SpiWriteData
+                0x00000000        0x4 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_hal_SpiReadData
+                0x00000000        0x4 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_hal_Gpio0Level
+                0x00000000        0xc ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_hal_Gpio1Level
+                0x00000000        0xc ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_hal_Gpio2Level
+                0x00000000        0xc ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text.radio_hal_Gpio3Level
+                0x00000000        0xc ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .rodata        0x00000000       0x44 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .data.Radio_Configuration_Data_Array
+                0x00000000      0x324 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .data.RadioConfiguration
+                0x00000000       0x4c ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .data.pRadioConfiguration
+                0x00000000        0x4 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .bss.ctsWentHigh
+                0x00000000        0x1 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .debug_info    0x00000000     0x571c ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .debug_abbrev  0x00000000      0x528 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .debug_loc     0x00000000     0x3d44 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .debug_aranges
+                0x00000000      0x168 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .debug_ranges  0x00000000      0xef0 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .debug_line    0x00000000     0x11cb ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .debug_str     0x00000000      0xfeb ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .ARM.attributes
+                0x00000000       0x33 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .debug_frame   0x00000000      0x490 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ COMMON         0x00000000       0x40 ./Source Files/dev_plat/driver/RF/radio_hal.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .text.Spi_Init
+                0x00000000        0x4 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .text.Spi_ReadWrite
+                0x00000000       0x18 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .text.Spi_WriteDataBurst
+                0x00000000       0x2c ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .text.Spi_ReadDataBurst
+                0x00000000       0x30 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .text.Spi_ClearNsel
+                0x00000000       0x10 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .text.Spi_SetNsel
+                0x00000000       0x10 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .debug_info    0x00000000      0x5b8 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .debug_abbrev  0x00000000      0x1cd ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .debug_loc     0x00000000      0x16b ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .debug_aranges
+                0x00000000       0x48 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .debug_ranges  0x00000000       0x70 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .debug_line    0x00000000      0x2dd ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .debug_str     0x00000000      0x3e1 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .ARM.attributes
+                0x00000000       0x33 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .debug_frame   0x00000000       0x80 ./Source Files/dev_plat/driver/RF/rf_spi.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_reset
+                0x00000000       0x14 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_power_up
+                0x00000000       0x28 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_configuration_init
+                0x00000000      0x14c ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_apply_patch
+                0x00000000        0x4 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_part_info
+                0x00000000       0x4c ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_start_tx
+                0x00000000       0x24 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_start_rx
+                0x00000000       0x34 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_get_int_status
+                0x00000000       0x54 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_gpio_pin_cfg
+                0x00000000       0x60 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_set_property
+                0x00000000       0x4c ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_change_state
+                0x00000000       0x14 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_nop
+                0x00000000       0x14 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_fifo_info
+                0x00000000       0x2c ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_write_tx_fifo
+                0x00000000        0xc ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_read_rx_fifo
+                0x00000000        0xc ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_get_property
+                0x00000000       0x8c ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_func_info
+                0x00000000       0x38 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_frr_a_read
+                0x00000000       0x2c ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_frr_b_read
+                0x00000000       0x2c ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_frr_c_read
+                0x00000000       0x2c ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_frr_d_read
+                0x00000000       0x2c ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_get_adc_reading
+                0x00000000       0x50 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_get_packet_info
+                0x00000000       0x44 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_get_ph_status
+                0x00000000       0x2c ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_get_modem_status
+                0x00000000       0x50 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_get_chip_status
+                0x00000000       0x30 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_ircal
+                0x00000000       0x34 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_protocol_cfg
+                0x00000000       0x14 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_request_device_state
+                0x00000000       0x28 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_rx_hop
+                0x00000000       0x2c ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text.si446x_agc_override
+                0x00000000       0x14 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .debug_info    0x00000000     0x15a2 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .debug_abbrev  0x00000000      0x317 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .debug_loc     0x00000000      0xebb ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .debug_aranges
+                0x00000000      0x110 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .debug_ranges  0x00000000      0x120 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .debug_line    0x00000000      0x679 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .debug_str     0x00000000      0xdd0 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .ARM.attributes
+                0x00000000       0x33 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .debug_frame   0x00000000      0x354 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ COMMON         0x00000000       0x20 ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ .text.si446x_nirq_process
+                0x00000000      0x174 ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ .debug_info    0x00000000      0xb7c ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ .debug_abbrev  0x00000000      0x124 ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ .debug_loc     0x00000000       0x20 ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ .debug_aranges
+                0x00000000       0x20 ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ .debug_ranges  0x00000000       0x10 ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ .debug_line    0x00000000      0x1a8 ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ .debug_str     0x00000000      0xa29 ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ .ARM.attributes
+                0x00000000       0x33 ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ .debug_frame   0x00000000       0x38 ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ COMMON         0x00000000       0x18 ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .text.drv_R8025T_read
+                0x00000000       0x44 ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .text.drv_R8025T_write
+                0x00000000       0x44 ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .text.drv_R8025T_init
+                0x00000000      0x1ec ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .text.drv_R8025T_check_read
+                0x00000000       0xb0 ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .text.get_rtc_time
+                0x00000000      0x13c ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .text.set_rtc_time
+                0x00000000       0x78 ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .debug_info    0x00000000      0xd2f ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .debug_abbrev  0x00000000      0x2f4 ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .debug_loc     0x00000000      0x7df ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .debug_aranges
+                0x00000000       0x48 ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .debug_ranges  0x00000000      0x108 ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .debug_line    0x00000000      0x472 ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .debug_str     0x00000000      0x45e ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .ARM.attributes
+                0x00000000       0x33 ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .debug_frame   0x00000000       0xdc ./Source Files/dev_plat/driver/R8025T/R8025t.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .text.check_sum_gps_frame
+                0x00000000      0x128 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .text.gps_get_loc_from
+                0x00000000       0x54 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .text.gps_get_abstime_from
+                0x00000000       0x54 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .text.process_gps_location_recv
+                0x00000000      0x288 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .text.process_gps_abstime_recv
+                0x00000000      0x28c ./Source Files/dev_plat/driver/GPS/GPS.o
+ .text.Get_Location_Now
+                0x00000000      0x2b0 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .text.Get_Abstime_Now
+                0x00000000      0x2ac ./Source Files/dev_plat/driver/GPS/GPS.o
+ .bss.GPS_recv_state.8233
+                0x00000000        0x1 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .bss.GPS_check_sum.8235
+                0x00000000        0x1 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .rodata.str1.4
+                0x00000000        0x8 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .bss.GPS_buff_pos.8219
+                0x00000000        0x1 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .bss.GPS_recv_state.8218
+                0x00000000        0x1 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .bss.GPS_check_sum.8220
+                0x00000000        0x1 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .bss.GPS_buff_pos.8234
+                0x00000000        0x1 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .debug_info    0x00000000      0xaf3 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .debug_abbrev  0x00000000      0x227 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .debug_loc     0x00000000      0xf32 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .debug_aranges
+                0x00000000       0x50 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .debug_ranges  0x00000000      0x148 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .debug_line    0x00000000      0x656 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .debug_str     0x00000000      0x418 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .ARM.attributes
+                0x00000000       0x33 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .debug_frame   0x00000000      0x10c ./Source Files/dev_plat/driver/GPS/GPS.o
+ COMMON         0x00000000       0x80 ./Source Files/dev_plat/driver/GPS/GPS.o
+ .text          0x00000000        0x0 ./Source Files/dev_plat/driver/GPIO/gpio.o
+ .data          0x00000000        0x0 ./Source Files/dev_plat/driver/GPIO/gpio.o
+ .bss           0x00000000        0x0 ./Source Files/dev_plat/driver/GPIO/gpio.o
+ .text.pin_ctrl_gprs_onoff
+                0x00000000        0x4 ./Source Files/dev_plat/driver/GPIO/gpio.o
+ .text.pin_ctrl_gprs_ctrl
+                0x00000000        0x4 ./Source Files/dev_plat/driver/GPIO/gpio.o
+ .debug_info    0x00000000      0x122 ./Source Files/dev_plat/driver/GPIO/gpio.o
+ .debug_abbrev  0x00000000       0x8b ./Source Files/dev_plat/driver/GPIO/gpio.o
+ .debug_aranges
+                0x00000000       0x28 ./Source Files/dev_plat/driver/GPIO/gpio.o
+ .debug_ranges  0x00000000       0x18 ./Source Files/dev_plat/driver/GPIO/gpio.o
+ .debug_line    0x00000000      0x17f ./Source Files/dev_plat/driver/GPIO/gpio.o
+ .debug_str     0x00000000      0x222 ./Source Files/dev_plat/driver/GPIO/gpio.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/driver/GPIO/gpio.o
+ .ARM.attributes
+                0x00000000       0x33 ./Source Files/dev_plat/driver/GPIO/gpio.o
+ .debug_frame   0x00000000       0x30 ./Source Files/dev_plat/driver/GPIO/gpio.o
+ .text          0x00000000        0x0 ./Source Files/app_plat/InitDevice.o
+ .data          0x00000000        0x0 ./Source Files/app_plat/InitDevice.o
+ .bss           0x00000000        0x0 ./Source Files/app_plat/InitDevice.o
+ .text.HFXO_enter_DefaultMode_from_RESET
+                0x00000000        0x4 ./Source Files/app_plat/InitDevice.o
+ .text.LFXO_enter_DefaultMode_from_RESET
+                0x00000000       0x18 ./Source Files/app_plat/InitDevice.o
+ .text.ADC0_enter_DefaultMode_from_RESET
+                0x00000000       0x78 ./Source Files/app_plat/InitDevice.o
+ .text.DMA_enter_DefaultMode_from_RESET
+                0x00000000       0x58 ./Source Files/app_plat/InitDevice.o
+ .text.ACMP0_enter_DefaultMode_from_RESET
+                0x00000000        0x4 ./Source Files/app_plat/InitDevice.o
+ .text.ACMP1_enter_DefaultMode_from_RESET
+                0x00000000        0x4 ./Source Files/app_plat/InitDevice.o
+ .text.DAC0_enter_DefaultMode_from_RESET
+                0x00000000        0x4 ./Source Files/app_plat/InitDevice.o
+ .text.RTC_enter_DefaultMode_from_RESET
+                0x00000000       0x28 ./Source Files/app_plat/InitDevice.o
+ .text.USART0_enter_DefaultMode_from_RESET
+                0x00000000       0x5c ./Source Files/app_plat/InitDevice.o
+ .text.USART1_enter_DefaultMode_from_RESET
+                0x00000000        0x4 ./Source Files/app_plat/InitDevice.o
+ .text.UART0_enter_DefaultMode_from_RESET
+                0x00000000       0x4c ./Source Files/app_plat/InitDevice.o
+ .text.LEUART0_enter_DefaultMode_from_RESET
+                0x00000000       0x7c ./Source Files/app_plat/InitDevice.o
+ .text.LEUART1_enter_DefaultMode_from_RESET
+                0x00000000        0x4 ./Source Files/app_plat/InitDevice.o
+ .text.VCMP_enter_DefaultMode_from_RESET
+                0x00000000        0x4 ./Source Files/app_plat/InitDevice.o
+ .text.WDOG_enter_DefaultMode_from_RESET
+                0x00000000       0x60 ./Source Files/app_plat/InitDevice.o
+ .text.I2C0_enter_DefaultMode_from_RESET
+                0x00000000       0x40 ./Source Files/app_plat/InitDevice.o
+ .text.TIMER0_enter_DefaultMode_from_RESET
+                0x00000000       0x50 ./Source Files/app_plat/InitDevice.o
+ .text.TIMER2_enter_DefaultMode_from_RESET
+                0x00000000        0x4 ./Source Files/app_plat/InitDevice.o
+ .text.LETIMER0_enter_DefaultMode_from_RESET
+                0x00000000        0x4 ./Source Files/app_plat/InitDevice.o
+ .text.PCNT0_enter_DefaultMode_from_RESET
+                0x00000000        0x4 ./Source Files/app_plat/InitDevice.o
+ .text.PCNT1_enter_DefaultMode_from_RESET
+                0x00000000        0x4 ./Source Files/app_plat/InitDevice.o
+ .text.PCNT2_enter_DefaultMode_from_RESET
+                0x00000000        0x4 ./Source Files/app_plat/InitDevice.o
+ .text.PRS_enter_DefaultMode_from_RESET
+                0x00000000        0x4 ./Source Files/app_plat/InitDevice.o
+ .text.EBI_enter_DefaultMode_from_RESET
+                0x00000000        0x4 ./Source Files/app_plat/InitDevice.o
+ .text          0x00000000        0x0 ./Source Files/app_plat/app_task.o
+ .data          0x00000000        0x0 ./Source Files/app_plat/app_task.o
+ .bss           0x00000000        0x0 ./Source Files/app_plat/app_task.o
+ .text.Task_Power_Ctrl
+                0x00000000      0x130 ./Source Files/app_plat/app_task.o
+ .text.Task_Fault_Handler
+                0x00000000       0x68 ./Source Files/app_plat/app_task.o
+ .text.Task_Report
+                0x00000000       0x10 ./Source Files/app_plat/app_task.o
+ .text.Task_Cycle_Service
+                0x00000000       0x30 ./Source Files/app_plat/app_task.o
+ .text          0x00000000        0x0 ./Source Files/app_plat/interrupt.o
+ .data          0x00000000        0x0 ./Source Files/app_plat/interrupt.o
+ .bss           0x00000000        0x0 ./Source Files/app_plat/interrupt.o
+ .text          0x00000000        0x0 ./Source Files/app_plat/main.o
+ .data          0x00000000        0x0 ./Source Files/app_plat/main.o
+ .bss           0x00000000        0x0 ./Source Files/app_plat/main.o
+ .text.printadc
+                0x00000000       0x28 ./Source Files/app_plat/main.o
+ .text.UART0_send_32
+                0x00000000       0x30 ./Source Files/app_plat/main.o
+ .data          0x00000000        0x0 ./CMSIS/efm32g/startup_gcc_efm32g.o
+ .bss           0x00000000        0x0 ./CMSIS/efm32g/startup_gcc_efm32g.o
+ .text          0x00000000        0x0 ./CMSIS/efm32g/system_efm32g.o
+ .data          0x00000000        0x0 ./CMSIS/efm32g/system_efm32g.o
+ .bss           0x00000000        0x0 ./CMSIS/efm32g/system_efm32g.o
+ .text.SystemHFXOClockGet
+                0x00000000        0xc ./CMSIS/efm32g/system_efm32g.o
+ .text.SystemHFXOClockSet
+                0x00000000       0xd8 ./CMSIS/efm32g/system_efm32g.o
+ .text.SystemULFRCOClockGet
+                0x00000000        0x8 ./CMSIS/efm32g/system_efm32g.o
+ .text.SystemLFXOClockSet
+                0x00000000       0xd8 ./CMSIS/efm32g/system_efm32g.o
+ .text          0x00000000      0x370 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .text          0x00000000      0x424 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .text          0x00000000       0xa0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_truncdfsf2.o)
+ .text          0x00000000      0x21c c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_addsubsf3.o)
+ .text          0x00000000      0x2a0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_muldivsf3.o)
+ .text          0x00000000       0xec c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_cmpsf2.o)
+ .text          0x00000000       0x40 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_arm_fixunssfsi.o)
+ .text          0x00000000       0x2c c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000       0x60 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(bpabi.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(bpabi.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(bpabi.o)
+ .debug_frame   0x00000000       0x58 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(bpabi.o)
+ .text          0x00000000        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000      0x2a0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_divdi3.o)
+ .ARM.extab     0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_divdi3.o)
+ .ARM.exidx     0x00000000        0x8 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_divdi3.o)
+ .debug_frame   0x00000000       0x34 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_divdi3.o)
+ .text          0x00000000      0x290 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_udivdi3.o)
+ .ARM.extab     0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_udivdi3.o)
+ .ARM.exidx     0x00000000        0x8 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_udivdi3.o)
+ .debug_frame   0x00000000       0x34 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcmp.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcmp.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcmp.o)
+ .text.memcmp   0x00000000       0x1e c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcmp.o)
+ .debug_frame   0x00000000       0x2c c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcmp.o)
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .text          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ .data          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ .bss           0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00020000         xr
+RAM              0x20000000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+LOAD ./emlib/dmactrl.o
+LOAD ./emlib/em_adc.o
+LOAD ./emlib/em_cmu.o
+LOAD ./emlib/em_dma.o
+LOAD ./emlib/em_emu.o
+LOAD ./emlib/em_gpio.o
+LOAD ./emlib/em_i2c.o
+LOAD ./emlib/em_int.o
+LOAD ./emlib/em_letimer.o
+LOAD ./emlib/em_leuart.o
+LOAD ./emlib/em_rtc.o
+LOAD ./emlib/em_system.o
+LOAD ./emlib/em_timer.o
+LOAD ./emlib/em_usart.o
+LOAD ./emlib/em_wdog.o
+LOAD ./Source Files/dev_plat/var.o
+LOAD ./Source Files/dev_plat/tpos/low_power_tick_management.o
+LOAD ./Source Files/dev_plat/tpos/sleep.o
+LOAD ./Source Files/dev_plat/tpos/tpos_croutine.o
+LOAD ./Source Files/dev_plat/tpos/tpos_heap_1.o
+LOAD ./Source Files/dev_plat/tpos/tpos_list.o
+LOAD ./Source Files/dev_plat/tpos/tpos_port.o
+LOAD ./Source Files/dev_plat/tpos/tpos_queue.o
+LOAD ./Source Files/dev_plat/tpos/tpos_tasks.o
+LOAD ./Source Files/dev_plat/tpos/tpos_timers.o
+LOAD ./Source Files/dev_plat/fun/fun_data.o
+LOAD ./Source Files/dev_plat/fun/fun_str.o
+LOAD ./Source Files/dev_plat/driver/flash/flash_fun.o
+LOAD ./Source Files/dev_plat/driver/RS232/rs_232.o
+LOAD ./Source Files/dev_plat/driver/RF/radio_hal.o
+LOAD ./Source Files/dev_plat/driver/RF/rf_spi.o
+LOAD ./Source Files/dev_plat/driver/RF/si446x_api_lib.o
+LOAD ./Source Files/dev_plat/driver/RF/si446x_nirq.o
+LOAD ./Source Files/dev_plat/driver/R8025T/R8025t.o
+LOAD ./Source Files/dev_plat/driver/GPS/GPS.o
+LOAD ./Source Files/dev_plat/driver/GPIO/gpio.o
+LOAD ./Source Files/app_plat/InitDevice.o
+LOAD ./Source Files/app_plat/app_task.o
+LOAD ./Source Files/app_plat/interrupt.o
+LOAD ./Source Files/app_plat/main.o
+LOAD ./CMSIS/efm32g/startup_gcc_efm32g.o
+LOAD ./CMSIS/efm32g/system_efm32g.o
+START GROUP
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libg_s.a
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a
+END GROUP
+START GROUP
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libgcc.a
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a
+END GROUP
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+LOAD c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+.text           0x00000000     0x3c8c
+ *(.vectors)
+ .vectors       0x00000000       0xbc ./CMSIS/efm32g/startup_gcc_efm32g.o
+                0x00000000                __Vectors
+                0x000000bc                __Vectors_End = .
+                0x000000bc                __Vectors_Size = (__Vectors_End - __Vectors)
+                0x000000bc                __end__ = .
+ *(.text*)
+ .text          0x000000bc       0x54 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .text          0x00000110       0x74 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x00000110                _start
+                0x00000110                _mainCRTStartup
+ .text.ADC_Init
+                0x00000184       0x70 ./emlib/em_adc.o
+                0x00000184                ADC_Init
+ .text.ADC_InitScan
+                0x000001f4       0xe4 ./emlib/em_adc.o
+                0x000001f4                ADC_InitScan
+ .text.ADC_PrescaleCalc
+                0x000002d8       0x58 ./emlib/em_adc.o
+                0x000002d8                ADC_PrescaleCalc
+ .text.ADC_TimebaseCalc
+                0x00000330       0x30 ./emlib/em_adc.o
+                0x00000330                ADC_TimebaseCalc
+ .text.CMU_ClockDivSet
+                0x00000360      0x1c8 ./emlib/em_cmu.o
+                0x00000360                CMU_ClockDivSet
+ .text.CMU_ClockEnable
+                0x00000528       0x78 ./emlib/em_cmu.o
+                0x00000528                CMU_ClockEnable
+ .text.CMU_ClockFreqGet
+                0x000005a0      0x198 ./emlib/em_cmu.o
+                0x000005a0                CMU_ClockFreqGet
+ .text.CMU_ClockSelectSet
+                0x00000738      0x184 ./emlib/em_cmu.o
+                0x00000738                CMU_ClockSelectSet
+ .text.CMU_HFRCOBandSet
+                0x000008bc      0x13c ./emlib/em_cmu.o
+                0x000008bc                CMU_HFRCOBandSet
+ .text.CMU_OscillatorEnable
+                0x000009f8       0x84 ./emlib/em_cmu.o
+                0x000009f8                CMU_OscillatorEnable
+ .text.DMA_IRQHandler
+                0x00000a7c       0x80 ./emlib/em_dma.o
+                0x00000a7c                DMA_IRQHandler
+ .text.DMA_CfgChannel
+                0x00000afc       0x54 ./emlib/em_dma.o
+                0x00000afc                DMA_CfgChannel
+ .text.DMA_CfgDescr
+                0x00000b50       0x3c ./emlib/em_dma.o
+                0x00000b50                DMA_CfgDescr
+ .text.DMA_Init
+                0x00000b8c       0xb0 ./emlib/em_dma.o
+                0x00000b8c                DMA_Init
+ .text.emuRestore
+                0x00000c3c       0x8c ./emlib/em_emu.o
+ .text.EMU_EnterEM2
+                0x00000cc8       0x80 ./emlib/em_emu.o
+                0x00000cc8                EMU_EnterEM2
+ .text.EMU_EnterEM3
+                0x00000d48       0x9c ./emlib/em_emu.o
+                0x00000d48                EMU_EnterEM3
+ .text.EMU_UpdateOscConfig
+                0x00000de4       0x14 ./emlib/em_emu.o
+                0x00000de4                EMU_UpdateOscConfig
+ .text.GPIO_ExtIntConfig
+                0x00000df8       0x6c ./emlib/em_gpio.o
+                0x00000df8                GPIO_ExtIntConfig
+ .text.GPIO_PinModeSet
+                0x00000e64       0xb4 ./emlib/em_gpio.o
+                0x00000e64                GPIO_PinModeSet
+ .text.I2C_Init
+                0x00000f18       0x88 ./emlib/em_i2c.o
+                0x00000f18                I2C_Init
+ .text.LEUART_Init
+                0x00000fa0       0x94 ./emlib/em_leuart.o
+                0x00000fa0                LEUART_Init
+ .text.LEUART_Reset
+                0x00001034       0x2c ./emlib/em_leuart.o
+                0x00001034                LEUART_Reset
+ .text.LEUART_Tx
+                0x00001060       0x18 ./emlib/em_leuart.o
+                0x00001060                LEUART_Tx
+ .text.RTC_CompareGet
+                0x00001078       0x1c ./emlib/em_rtc.o
+                0x00001078                RTC_CompareGet
+ .text.RTC_CompareSet
+                0x00001094       0x3c ./emlib/em_rtc.o
+                0x00001094                RTC_CompareSet
+ .text.RTC_Enable
+                0x000010d0       0x38 ./emlib/em_rtc.o
+                0x000010d0                RTC_Enable
+ .text.RTC_Init
+                0x00001108       0x34 ./emlib/em_rtc.o
+                0x00001108                RTC_Init
+ .text.SYSTEM_ChipRevisionGet
+                0x0000113c       0x34 ./emlib/em_system.o
+                0x0000113c                SYSTEM_ChipRevisionGet
+ .text.TIMER_Init
+                0x00001170       0x78 ./emlib/em_timer.o
+                0x00001170                TIMER_Init
+ .text.TIMER_InitCC
+                0x000011e8       0x6c ./emlib/em_timer.o
+                0x000011e8                TIMER_InitCC
+ .text.USART_InitAsync
+                0x00001254       0xa4 ./emlib/em_usart.o
+                0x00001254                USART_InitAsync
+ .text.USART_InitSync
+                0x000012f8       0x98 ./emlib/em_usart.o
+                0x000012f8                USART_InitSync
+ .text.USART_InitPrsTrigger
+                0x00001390       0x20 ./emlib/em_usart.o
+                0x00001390                USART_InitPrsTrigger
+ .text.USART_Tx
+                0x000013b0        0xc ./emlib/em_usart.o
+                0x000013b0                USART_Tx
+ .text.WDOGn_Feed
+                0x000013bc       0x18 ./emlib/em_wdog.o
+                0x000013bc                WDOGn_Feed
+ .text.WDOGn_Init
+                0x000013d4       0x48 ./emlib/em_wdog.o
+                0x000013d4                WDOGn_Init
+ .text.vApplicationIdleHook
+                0x0000141c        0x4 ./Source Files/dev_plat/tpos/low_power_tick_management.o
+                0x0000141c                vApplicationIdleHook
+ .text.RTC_IRQHandler
+                0x00001420       0x4c ./Source Files/dev_plat/tpos/low_power_tick_management.o
+                0x00001420                RTC_IRQHandler
+ .text.vPortSetupTimerInterrupt
+                0x0000146c       0x8c ./Source Files/dev_plat/tpos/low_power_tick_management.o
+                0x0000146c                vPortSetupTimerInterrupt
+ .text.SLEEP_Init
+                0x000014f8       0x24 ./Source Files/dev_plat/tpos/sleep.o
+                0x000014f8                SLEEP_Init
+ .text.SLEEP_Sleep
+                0x0000151c       0x84 ./Source Files/dev_plat/tpos/sleep.o
+                0x0000151c                SLEEP_Sleep
+ .text.SLEEP_SleepBlockBegin
+                0x000015a0       0x28 ./Source Files/dev_plat/tpos/sleep.o
+                0x000015a0                SLEEP_SleepBlockBegin
+ .text.pvPortMalloc
+                0x000015c8       0x58 ./Source Files/dev_plat/tpos/tpos_heap_1.o
+                0x000015c8                pvPortMalloc
+ .text.vPortFree
+                0x00001620        0x4 ./Source Files/dev_plat/tpos/tpos_heap_1.o
+                0x00001620                vPortFree
+ .text.vListInitialise
+                0x00001624       0x18 ./Source Files/dev_plat/tpos/tpos_list.o
+                0x00001624                vListInitialise
+ .text.vListInitialiseItem
+                0x0000163c        0x8 ./Source Files/dev_plat/tpos/tpos_list.o
+                0x0000163c                vListInitialiseItem
+ .text.vListInsertEnd
+                0x00001644       0x1c ./Source Files/dev_plat/tpos/tpos_list.o
+                0x00001644                vListInsertEnd
+ .text.vListInsert
+                0x00001660       0x34 ./Source Files/dev_plat/tpos/tpos_list.o
+                0x00001660                vListInsert
+ .text.uxListRemove
+                0x00001694       0x28 ./Source Files/dev_plat/tpos/tpos_list.o
+                0x00001694                uxListRemove
+ .text.prvPortStartFirstTask
+                0x000016bc       0x20 ./Source Files/dev_plat/tpos/tpos_port.o
+ .text.pxPortInitialiseStack
+                0x000016dc       0x24 ./Source Files/dev_plat/tpos/tpos_port.o
+                0x000016dc                pxPortInitialiseStack
+ .text.SVC_Handler
+                0x00001700       0x28 ./Source Files/dev_plat/tpos/tpos_port.o
+                0x00001700                SVC_Handler
+ .text.vPortYield
+                0x00001728       0x18 ./Source Files/dev_plat/tpos/tpos_port.o
+                0x00001728                vPortYield
+ .text.ulPortSetInterruptMask
+                0x00001740       0x10 ./Source Files/dev_plat/tpos/tpos_port.o
+                0x00001740                ulPortSetInterruptMask
+ .text.prvTaskExitError
+                0x00001750        0x8 ./Source Files/dev_plat/tpos/tpos_port.o
+ .text.vPortEnterCritical
+                0x00001758       0x28 ./Source Files/dev_plat/tpos/tpos_port.o
+                0x00001758                vPortEnterCritical
+ .text.vPortClearInterruptMask
+                0x00001780        0x8 ./Source Files/dev_plat/tpos/tpos_port.o
+                0x00001780                vPortClearInterruptMask
+ .text.vPortExitCritical
+                0x00001788       0x14 ./Source Files/dev_plat/tpos/tpos_port.o
+                0x00001788                vPortExitCritical
+ .text.PendSV_Handler
+                0x0000179c       0x44 ./Source Files/dev_plat/tpos/tpos_port.o
+                0x0000179c                PendSV_Handler
+ .text.SysTick_Handler
+                0x000017e0       0x24 ./Source Files/dev_plat/tpos/tpos_port.o
+                0x000017e0                SysTick_Handler
+ .text.xPortStartScheduler
+                0x00001804       0xa0 ./Source Files/dev_plat/tpos/tpos_port.o
+                0x00001804                xPortStartScheduler
+ .text.vPortValidateInterruptPriority
+                0x000018a4       0x1c ./Source Files/dev_plat/tpos/tpos_port.o
+                0x000018a4                vPortValidateInterruptPriority
+ .text.xQueueGenericCreate
+                0x000018c0       0x74 ./Source Files/dev_plat/tpos/tpos_queue.o
+                0x000018c0                xQueueGenericCreate
+ .text.xQueueGenericSend
+                0x00001934      0x2c4 ./Source Files/dev_plat/tpos/tpos_queue.o
+                0x00001934                xQueueGenericSend
+ .text.xQueueGenericSendFromISR
+                0x00001bf8       0xf4 ./Source Files/dev_plat/tpos/tpos_queue.o
+                0x00001bf8                xQueueGenericSendFromISR
+ .text.xQueueGenericReceive
+                0x00001cec      0x2a4 ./Source Files/dev_plat/tpos/tpos_queue.o
+                0x00001cec                xQueueGenericReceive
+ .text.vQueueAddToRegistry
+                0x00001f90       0x68 ./Source Files/dev_plat/tpos/tpos_queue.o
+                0x00001f90                vQueueAddToRegistry
+ .text.vQueueWaitForMessageRestricted
+                0x00001ff8       0xb0 ./Source Files/dev_plat/tpos/tpos_queue.o
+                0x00001ff8                vQueueWaitForMessageRestricted
+ .text.xTaskGenericCreate
+                0x000020a8      0x1e8 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x000020a8                xTaskGenericCreate
+ .text.tpos_start
+                0x00002290      0x194 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x00002290                tpos_start
+ .text.vTaskSuspendAll
+                0x00002424       0x10 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x00002424                vTaskSuspendAll
+ .text.xTaskGetTickCount
+                0x00002434       0x18 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x00002434                xTaskGetTickCount
+ .text.xTaskIncrementTick
+                0x0000244c      0x110 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x0000244c                xTaskIncrementTick
+ .text.xTaskResumeAll
+                0x0000255c       0xd0 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x0000255c                xTaskResumeAll
+ .text.prvIdleTask
+                0x0000262c       0x80 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .text.vTaskSwitchContext
+                0x000026ac       0x58 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x000026ac                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x00002704       0x94 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x00002704                vTaskPlaceOnEventList
+ .text.vTaskPlaceOnEventListRestricted
+                0x00002798       0x80 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x00002798                vTaskPlaceOnEventListRestricted
+ .text.xTaskRemoveFromEventList
+                0x00002818       0x78 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x00002818                xTaskRemoveFromEventList
+ .text.vTaskSetTimeOutState
+                0x00002890       0x18 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x00002890                vTaskSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x000028a8       0x60 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x000028a8                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x00002908        0xc ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x00002908                vTaskMissedYield
+ .text.xTaskGetSchedulerState
+                0x00002914       0x20 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x00002914                xTaskGetSchedulerState
+ .text.vTaskPriorityInherit
+                0x00002934       0x98 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x00002934                vTaskPriorityInherit
+ .text.xTaskPriorityDisinherit
+                0x000029cc       0x88 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x000029cc                xTaskPriorityDisinherit
+ .text.pvTaskIncrementMutexHeldCount
+                0x00002a54       0x18 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x00002a54                pvTaskIncrementMutexHeldCount
+ .text.ClrTaskWdt
+                0x00002a6c        0xc ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x00002a6c                ClrTaskWdt
+ .text.xTimersFunc
+                0x00002a78       0x10 ./Source Files/dev_plat/tpos/tpos_timers.o
+                0x00002a78                xTimersFunc
+ .text.xTimerCreateTimerTask
+                0x00002a88       0x84 ./Source Files/dev_plat/tpos/tpos_timers.o
+                0x00002a88                xTimerCreateTimerTask
+ .text.xTimerGenericCommand
+                0x00002b0c       0x58 ./Source Files/dev_plat/tpos/tpos_timers.o
+                0x00002b0c                xTimerGenericCommand
+ .text.prvTimerTask
+                0x00002b64      0x2d0 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .text.Create_10ms_Timer
+                0x00002e34       0xc0 ./Source Files/dev_plat/tpos/tpos_timers.o
+                0x00002e34                Create_10ms_Timer
+ .text.LEUART0_IRQHandler
+                0x00002ef4       0x70 ./Source Files/dev_plat/driver/RS232/rs_232.o
+                0x00002ef4                LEUART0_IRQHandler
+ .text.UART0_TX_IRQHandler
+                0x00002f64       0x34 ./Source Files/dev_plat/driver/RS232/rs_232.o
+                0x00002f64                UART0_TX_IRQHandler
+ .text.UART0_RX_IRQHandler
+                0x00002f98       0x3c ./Source Files/dev_plat/driver/RS232/rs_232.o
+                0x00002f98                UART0_RX_IRQHandler
+ .text.CMU_enter_DefaultMode_from_RESET
+                0x00002fd4      0x120 ./Source Files/app_plat/InitDevice.o
+                0x00002fd4                CMU_enter_DefaultMode_from_RESET
+ .text.USART2_enter_DefaultMode_from_RESET
+                0x000030f4       0x84 ./Source Files/app_plat/InitDevice.o
+                0x000030f4                USART2_enter_DefaultMode_from_RESET
+ .text.TIMER1_enter_DefaultMode_from_RESET
+                0x00003178       0x94 ./Source Files/app_plat/InitDevice.o
+                0x00003178                TIMER1_enter_DefaultMode_from_RESET
+ .text.PORTIO_enter_DefaultMode_from_RESET
+                0x0000320c      0x1e0 ./Source Files/app_plat/InitDevice.o
+                0x0000320c                PORTIO_enter_DefaultMode_from_RESET
+ .text.enter_DefaultMode_from_RESET
+                0x000033ec      0x30c ./Source Files/app_plat/InitDevice.o
+                0x000033ec                enter_DefaultMode_from_RESET
+ .text.led_toggle
+                0x000036f8       0x20 ./Source Files/app_plat/app_task.o
+                0x000036f8                led_toggle
+ .text.GPIO_ODD_IRQHandler
+                0x00003718       0x50 ./Source Files/app_plat/interrupt.o
+                0x00003718                GPIO_ODD_IRQHandler
+ .text.TIMER0_IRQHandler
+                0x00003768       0x18 ./Source Files/app_plat/interrupt.o
+                0x00003768                TIMER0_IRQHandler
+ .text.Task_LED
+                0x00003780       0x24 ./Source Files/app_plat/main.o
+ .text.startup.main
+                0x000037a4      0x1b4 ./Source Files/app_plat/main.o
+                0x000037a4                main
+ .text          0x00003958       0x30 ./CMSIS/efm32g/startup_gcc_efm32g.o
+                0x00003958                Reset_Handler
+                0x00003984                DebugMon_Handler
+                0x00003984                USART0_TX_IRQHandler
+                0x00003984                I2C0_IRQHandler
+                0x00003984                HardFault_Handler
+                0x00003984                LEUART1_IRQHandler
+                0x00003984                USART1_RX_IRQHandler
+                0x00003984                NMI_Handler
+                0x00003984                USART1_TX_IRQHandler
+                0x00003984                MSC_IRQHandler
+                0x00003984                ADC0_IRQHandler
+                0x00003984                UsageFault_Handler
+                0x00003984                GPIO_EVEN_IRQHandler
+                0x00003984                TIMER2_IRQHandler
+                0x00003984                LCD_IRQHandler
+                0x00003984                PCNT2_IRQHandler
+                0x00003984                LETIMER0_IRQHandler
+                0x00003984                TIMER1_IRQHandler
+                0x00003984                USART2_RX_IRQHandler
+                0x00003984                Default_Handler
+                0x00003984                PCNT0_IRQHandler
+                0x00003984                PCNT1_IRQHandler
+                0x00003984                ACMP0_IRQHandler
+                0x00003984                USART0_RX_IRQHandler
+                0x00003984                MemManage_Handler
+                0x00003984                DAC0_IRQHandler
+                0x00003984                CMU_IRQHandler
+                0x00003984                AES_IRQHandler
+                0x00003984                VCMP_IRQHandler
+                0x00003984                BusFault_Handler
+                0x00003984                USART2_TX_IRQHandler
+ .text.SystemCoreClockGet
+                0x00003988       0xd4 ./CMSIS/efm32g/system_efm32g.o
+                0x00003988                SystemCoreClockGet
+ .text.SystemMaxCoreClockGet
+                0x00003a5c        0x8 ./CMSIS/efm32g/system_efm32g.o
+                0x00003a5c                SystemMaxCoreClockGet
+ .text.SystemHFClockGet
+                0x00003a64       0xc0 ./CMSIS/efm32g/system_efm32g.o
+                0x00003a64                SystemHFClockGet
+ .text.SystemInit
+                0x00003b24        0x4 ./CMSIS/efm32g/system_efm32g.o
+                0x00003b24                SystemInit
+ .text.SystemLFRCOClockGet
+                0x00003b28        0x8 ./CMSIS/efm32g/system_efm32g.o
+                0x00003b28                SystemLFRCOClockGet
+ .text.SystemLFXOClockGet
+                0x00003b30        0xc ./CMSIS/efm32g/system_efm32g.o
+                0x00003b30                SystemLFXOClockGet
+ .text.exit     0x00003b3c       0x28 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-exit.o)
+                0x00003b3c                exit
+ .text.__libc_init_array
+                0x00003b64       0x4c c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-init.o)
+                0x00003b64                __libc_init_array
+ .text.memcpy   0x00003bb0       0x12 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcpy-stub.o)
+                0x00003bb0                memcpy
+ .text.memset   0x00003bc2       0x10 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memset.o)
+                0x00003bc2                memset
+ *fill*         0x00003bd2        0x2 
+ .text._exit    0x00003bd4        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+                0x00003bd4                _exit
+ *(.init)
+ .init          0x00003bd8        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+                0x00003bd8                _init
+ .init          0x00003bdc        0x8 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ *(.fini)
+ .fini          0x00003be4        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+                0x00003be4                _fini
+ .fini          0x00003be8        0x8 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.i2cNSum
+                0x00003bf0        0x4 ./emlib/em_i2c.o
+ .rodata.str1.4
+                0x00003bf4       0x17 ./Source Files/dev_plat/tpos/tpos_timers.o
+                                 0x18 (size before relaxing)
+ *fill*         0x00003c0b        0x1 
+ .rodata        0x00003c0c       0x64 ./Source Files/app_plat/InitDevice.o
+ .rodata.str1.4
+                0x00003c70       0x10 ./Source Files/app_plat/main.o
+ .rodata.str1.1
+                0x00003c80        0x2 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ *fill*         0x00003c82        0x2 
+ .rodata._global_impure_ptr
+                0x00003c84        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+                0x00003c84                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x00003c88        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .eh_frame      0x00003c88        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+
+.glue_7         0x00003c8c        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00003c8c        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00003c8c        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00003c8c        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00003c8c        0x0
+ .iplt          0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00003c8c                __exidx_start = .
+
+.ARM.exidx      0x00003c8c        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00003c8c        0x8 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x00003c94                __exidx_end = .
+                0x00003c94                __etext = .
+
+.rel.dyn        0x00003c94        0x0
+ .rel.iplt      0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.data           0x20000000       0x7c load address 0x00003c94
+                0x20000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.uxCriticalNesting
+                0x20000000        0x4 ./Source Files/dev_plat/tpos/tpos_port.o
+ .data.xNextTaskUnblockTime
+                0x20000004        0x4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .data.SystemLFXOClock
+                0x20000008        0x4 ./CMSIS/efm32g/system_efm32g.o
+ .data.SystemHFXOClock
+                0x2000000c        0x4 ./CMSIS/efm32g/system_efm32g.o
+ .data.impure_data
+                0x20000010       0x60 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+                0x20000070                . = ALIGN (0x4)
+ *(.ram)
+                0x20000070                . = ALIGN (0x4)
+                0x20000070                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x20000070                PROVIDE (__preinit_array_end, .)
+                0x20000070                . = ALIGN (0x4)
+                0x20000070                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x20000070        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+                0x20000074                PROVIDE (__init_array_end, .)
+                0x20000074                . = ALIGN (0x4)
+                0x20000074                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x20000074        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+                0x20000078                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+ .jcr           0x20000078        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .jcr           0x20000078        0x4 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+                0x2000007c                . = ALIGN (0x4)
+                0x2000007c                __data_end__ = .
+
+.igot.plt       0x2000007c        0x0 load address 0x00003d10
+ .igot.plt      0x00000000        0x0 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.bss            0x20000100     0x2ce4 load address 0x00003e00
+                0x20000100                . = ALIGN (0x4)
+                0x20000100                __bss_start__ = .
+ *(.bss*)
+ .bss           0x20000100       0x1c c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .bss.cmuStatus
+                0x2000011c        0x4 ./emlib/em_emu.o
+ .bss.INT_LockCnt
+                0x20000120        0x4 ./emlib/em_int.o
+                0x20000120                INT_LockCnt
+ .bss.wakeUpCallback
+                0x20000124        0x4 ./Source Files/dev_plat/tpos/sleep.o
+ .bss.sleepCallback
+                0x20000128        0x4 ./Source Files/dev_plat/tpos/sleep.o
+ .bss.sleepBlockCnt
+                0x2000012c        0x4 ./Source Files/dev_plat/tpos/sleep.o
+ .bss.pucAlignedHeap.4564
+                0x20000130        0x4 ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .bss.ucHeap    0x20000134     0x2328 ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .bss.xNextFreeByte
+                0x2000245c        0x4 ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .bss.ucMaxSysCallPriority
+                0x20002460        0x1 ./Source Files/dev_plat/tpos/tpos_port.o
+ *fill*         0x20002461        0x3 
+ .bss.ulMaxPRIGROUPValue
+                0x20002464        0x4 ./Source Files/dev_plat/tpos/tpos_port.o
+ .bss.pxDelayedTaskList
+                0x20002468        0x4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.xSchedulerRunning
+                0x2000246c        0x4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.uxTasksDeleted
+                0x20002470        0x4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.xTasksWaitingTermination
+                0x20002474       0x14 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.xSuspendedTaskList
+                0x20002488       0x14 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.pxReadyTasksLists
+                0x2000249c       0x3c ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.uxSchedulerSuspended
+                0x200024d8        0x4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.pxCurrentTCB
+                0x200024dc        0x4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+                0x200024dc                pxCurrentTCB
+ .bss.xPendingReadyList
+                0x200024e0       0x14 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.xNumOfOverflows
+                0x200024f4        0x4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.xTickCount
+                0x200024f8        0x4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x200024fc        0x4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.uxTaskNumber
+                0x20002500        0x4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.xDelayedTaskList1
+                0x20002504       0x14 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.xDelayedTaskList2
+                0x20002518       0x14 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.uxPendedTicks
+                0x2000252c        0x4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x20002530        0x4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.uxTopReadyPriority
+                0x20002534        0x4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.xYieldPending
+                0x20002538        0x4 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .bss.pxCurrentTimerList
+                0x2000253c        0x4 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .bss.xActiveTimerList1
+                0x20002540       0x14 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .bss.xActiveTimerList2
+                0x20002554       0x14 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .bss.xLastTime.8225
+                0x20002568        0x4 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .bss.systick_in_10ms
+                0x2000256c        0x4 ./Source Files/dev_plat/tpos/tpos_timers.o
+                0x2000256c                systick_in_10ms
+ .bss.xTimerQueue
+                0x20002570        0x4 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .bss.pxOverflowTimerList
+                0x20002574        0x4 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .bss.wcount    0x20002578        0x1 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .bss.rcount    0x20002579        0x1 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ *(COMMON)
+ *fill*         0x2000257a       0x86 
+ COMMON         0x20002600      0x100 ./emlib/dmactrl.o
+                0x20002600                dmaControlBlock
+ COMMON         0x20002700       0x24 ./Source Files/dev_plat/var.o
+                0x20002700                gSystemInfo
+ COMMON         0x20002724       0x50 ./Source Files/dev_plat/tpos/tpos_queue.o
+                0x20002724                xQueueRegistry
+ COMMON         0x20002774        0x4 ./Source Files/dev_plat/tpos/tpos_timers.o
+                0x20002774                SysTimer_10ms
+ COMMON         0x20002778      0x658 ./Source Files/dev_plat/driver/RS232/rs_232.o
+                0x20002778                DrvGPS232Channel
+                0x20002c3c                rtmp
+                0x20002d04                size
+                0x20002d08                wtmp
+ COMMON         0x20002dd0       0x10 ./Source Files/app_plat/main.o
+                0x20002dd0                Sem_duanlu
+                0x20002dd4                i
+                0x20002dd8                Sem_lowbat
+                0x20002ddc                Sem_jiedi
+ COMMON         0x20002de0        0x4 ./CMSIS/efm32g/system_efm32g.o
+                0x20002de0                SystemCoreClock
+                0x20002de4                . = ALIGN (0x4)
+                0x20002de4                __bss_end__ = .
+
+.heap           0x20002de8      0xc00
+                0x20002de8                __HeapBase = .
+                0x20002de8                __end__ = .
+                0x20002de8                end = __end__
+                0x20002de8                _end = __end__
+ *(.heap*)
+ .heap          0x20002de8      0xc00 ./CMSIS/efm32g/startup_gcc_efm32g.o
+                0x200039e8                __HeapLimit = .
+
+.stack_dummy    0x20002de8      0x400
+ *(.stack*)
+ .stack         0x20002de8      0x400 ./CMSIS/efm32g/startup_gcc_efm32g.o
+                0x20004000                __StackTop = (ORIGIN (RAM) + 0x4000)
+                0x20003c00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20004000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+                0x00000001                ASSERT ((0x20000 >= (__etext + SIZEOF (.data))), FLASH memory overflowed !)
+OUTPUT(Collector_v1.0.axf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x33 ./emlib/dmactrl.o
+ .ARM.attributes
+                0x00000098       0x33 ./emlib/em_adc.o
+ .ARM.attributes
+                0x000000cb       0x33 ./emlib/em_cmu.o
+ .ARM.attributes
+                0x000000fe       0x33 ./emlib/em_dma.o
+ .ARM.attributes
+                0x00000131       0x33 ./emlib/em_emu.o
+ .ARM.attributes
+                0x00000164       0x33 ./emlib/em_gpio.o
+ .ARM.attributes
+                0x00000197       0x33 ./emlib/em_i2c.o
+ .ARM.attributes
+                0x000001ca       0x33 ./emlib/em_int.o
+ .ARM.attributes
+                0x000001fd       0x33 ./emlib/em_leuart.o
+ .ARM.attributes
+                0x00000230       0x33 ./emlib/em_rtc.o
+ .ARM.attributes
+                0x00000263       0x33 ./emlib/em_system.o
+ .ARM.attributes
+                0x00000296       0x33 ./emlib/em_timer.o
+ .ARM.attributes
+                0x000002c9       0x33 ./emlib/em_usart.o
+ .ARM.attributes
+                0x000002fc       0x33 ./emlib/em_wdog.o
+ .ARM.attributes
+                0x0000032f       0x33 ./Source Files/dev_plat/var.o
+ .ARM.attributes
+                0x00000362       0x33 ./Source Files/dev_plat/tpos/low_power_tick_management.o
+ .ARM.attributes
+                0x00000395       0x33 ./Source Files/dev_plat/tpos/sleep.o
+ .ARM.attributes
+                0x000003c8       0x33 ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .ARM.attributes
+                0x000003fb       0x33 ./Source Files/dev_plat/tpos/tpos_list.o
+ .ARM.attributes
+                0x0000042e       0x33 ./Source Files/dev_plat/tpos/tpos_port.o
+ .ARM.attributes
+                0x00000461       0x33 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .ARM.attributes
+                0x00000494       0x33 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .ARM.attributes
+                0x000004c7       0x33 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .ARM.attributes
+                0x000004fa       0x33 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .ARM.attributes
+                0x0000052d       0x33 ./Source Files/app_plat/InitDevice.o
+ .ARM.attributes
+                0x00000560       0x33 ./Source Files/app_plat/app_task.o
+ .ARM.attributes
+                0x00000593       0x33 ./Source Files/app_plat/interrupt.o
+ .ARM.attributes
+                0x000005c6       0x33 ./Source Files/app_plat/main.o
+ .ARM.attributes
+                0x000005f9       0x1b ./CMSIS/efm32g/startup_gcc_efm32g.o
+ .ARM.attributes
+                0x00000614       0x33 ./CMSIS/efm32g/system_efm32g.o
+ .ARM.attributes
+                0x00000647       0x2d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000674       0x2d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000006a1       0x2d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-init.o)
+ .ARM.attributes
+                0x000006ce       0x2d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000006fb       0x2d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000728       0x2d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000755       0x2d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .ARM.attributes
+                0x00000782       0x1d c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./emlib/dmactrl.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./emlib/em_adc.o
+ .comment       0x00000000       0x71 ./emlib/em_cmu.o
+ .comment       0x00000000       0x71 ./emlib/em_dma.o
+ .comment       0x00000000       0x71 ./emlib/em_emu.o
+ .comment       0x00000000       0x71 ./emlib/em_gpio.o
+ .comment       0x00000000       0x71 ./emlib/em_i2c.o
+ .comment       0x00000000       0x71 ./emlib/em_int.o
+ .comment       0x00000000       0x71 ./emlib/em_leuart.o
+ .comment       0x00000000       0x71 ./emlib/em_rtc.o
+ .comment       0x00000000       0x71 ./emlib/em_system.o
+ .comment       0x00000000       0x71 ./emlib/em_timer.o
+ .comment       0x00000000       0x71 ./emlib/em_usart.o
+ .comment       0x00000000       0x71 ./emlib/em_wdog.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/var.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/tpos/low_power_tick_management.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/tpos/sleep.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/tpos/tpos_list.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/tpos/tpos_port.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .comment       0x00000000       0x71 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .comment       0x00000000       0x71 ./Source Files/app_plat/InitDevice.o
+ .comment       0x00000000       0x71 ./Source Files/app_plat/app_task.o
+ .comment       0x00000000       0x71 ./Source Files/app_plat/interrupt.o
+ .comment       0x00000000       0x71 ./Source Files/app_plat/main.o
+ .comment       0x00000000       0x71 ./CMSIS/efm32g/system_efm32g.o
+
+.debug_info     0x00000000    0x152b4
+ .debug_info    0x00000000      0x113 ./emlib/dmactrl.o
+ .debug_info    0x00000113      0xc54 ./emlib/em_adc.o
+ .debug_info    0x00000d67     0x1d90 ./emlib/em_cmu.o
+ .debug_info    0x00002af7     0x144f ./emlib/em_dma.o
+ .debug_info    0x00003f46      0xa02 ./emlib/em_emu.o
+ .debug_info    0x00004948      0x703 ./emlib/em_gpio.o
+ .debug_info    0x0000504b      0xa6e ./emlib/em_i2c.o
+ .debug_info    0x00005ab9       0xa6 ./emlib/em_int.o
+ .debug_info    0x00005b5f      0xa95 ./emlib/em_leuart.o
+ .debug_info    0x000065f4      0x5ab ./emlib/em_rtc.o
+ .debug_info    0x00006b9f      0x246 ./emlib/em_system.o
+ .debug_info    0x00006de5      0x8e1 ./emlib/em_timer.o
+ .debug_info    0x000076c6      0xfe9 ./emlib/em_usart.o
+ .debug_info    0x000086af      0x3ad ./emlib/em_wdog.o
+ .debug_info    0x00008a5c      0x1b8 ./Source Files/dev_plat/var.o
+ .debug_info    0x00008c14      0xb56 ./Source Files/dev_plat/tpos/low_power_tick_management.o
+ .debug_info    0x0000976a      0x79c ./Source Files/dev_plat/tpos/sleep.o
+ .debug_info    0x00009f06      0x1bc ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .debug_info    0x0000a0c2      0x2be ./Source Files/dev_plat/tpos/tpos_list.o
+ .debug_info    0x0000a380      0x3ea ./Source Files/dev_plat/tpos/tpos_port.o
+ .debug_info    0x0000a76a     0x16bb ./Source Files/dev_plat/tpos/tpos_queue.o
+ .debug_info    0x0000be25     0x202d ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .debug_info    0x0000de52     0x151e ./Source Files/dev_plat/tpos/tpos_timers.o
+ .debug_info    0x0000f370      0x71e ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .debug_info    0x0000fa8e     0x34a6 ./Source Files/app_plat/InitDevice.o
+ .debug_info    0x00012f34      0xad6 ./Source Files/app_plat/app_task.o
+ .debug_info    0x00013a0a      0x628 ./Source Files/app_plat/interrupt.o
+ .debug_info    0x00014032      0xb58 ./Source Files/app_plat/main.o
+ .debug_info    0x00014b8a       0x89 ./CMSIS/efm32g/startup_gcc_efm32g.o
+ .debug_info    0x00014c13      0x6a1 ./CMSIS/efm32g/system_efm32g.o
+
+.debug_abbrev   0x00000000     0x4577
+ .debug_abbrev  0x00000000       0x98 ./emlib/dmactrl.o
+ .debug_abbrev  0x00000098      0x2ce ./emlib/em_adc.o
+ .debug_abbrev  0x00000366      0x3f3 ./emlib/em_cmu.o
+ .debug_abbrev  0x00000759      0x34b ./emlib/em_dma.o
+ .debug_abbrev  0x00000aa4      0x266 ./emlib/em_emu.o
+ .debug_abbrev  0x00000d0a      0x29e ./emlib/em_gpio.o
+ .debug_abbrev  0x00000fa8      0x371 ./emlib/em_i2c.o
+ .debug_abbrev  0x00001319       0x5c ./emlib/em_int.o
+ .debug_abbrev  0x00001375      0x2d0 ./emlib/em_leuart.o
+ .debug_abbrev  0x00001645      0x22c ./emlib/em_rtc.o
+ .debug_abbrev  0x00001871       0xef ./emlib/em_system.o
+ .debug_abbrev  0x00001960      0x1bd ./emlib/em_timer.o
+ .debug_abbrev  0x00001b1d      0x2d6 ./emlib/em_usart.o
+ .debug_abbrev  0x00001df3      0x154 ./emlib/em_wdog.o
+ .debug_abbrev  0x00001f47       0x60 ./Source Files/dev_plat/var.o
+ .debug_abbrev  0x00001fa7      0x29b ./Source Files/dev_plat/tpos/low_power_tick_management.o
+ .debug_abbrev  0x00002242      0x3a1 ./Source Files/dev_plat/tpos/sleep.o
+ .debug_abbrev  0x000025e3      0x12e ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .debug_abbrev  0x00002711       0xf8 ./Source Files/dev_plat/tpos/tpos_list.o
+ .debug_abbrev  0x00002809      0x210 ./Source Files/dev_plat/tpos/tpos_port.o
+ .debug_abbrev  0x00002a19      0x3a9 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .debug_abbrev  0x00002dc2      0x457 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .debug_abbrev  0x00003219      0x415 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .debug_abbrev  0x0000362e      0x232 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .debug_abbrev  0x00003860      0x398 ./Source Files/app_plat/InitDevice.o
+ .debug_abbrev  0x00003bf8      0x2e0 ./Source Files/app_plat/app_task.o
+ .debug_abbrev  0x00003ed8      0x154 ./Source Files/app_plat/interrupt.o
+ .debug_abbrev  0x0000402c      0x34a ./Source Files/app_plat/main.o
+ .debug_abbrev  0x00004376       0x14 ./CMSIS/efm32g/startup_gcc_efm32g.o
+ .debug_abbrev  0x0000438a      0x1ed ./CMSIS/efm32g/system_efm32g.o
+
+.debug_aranges  0x00000000      0xb00
+ .debug_aranges
+                0x00000000       0x18 ./emlib/dmactrl.o
+ .debug_aranges
+                0x00000018       0x48 ./emlib/em_adc.o
+ .debug_aranges
+                0x00000060       0xc8 ./emlib/em_cmu.o
+ .debug_aranges
+                0x00000128       0x88 ./emlib/em_dma.o
+ .debug_aranges
+                0x000001b0       0x50 ./emlib/em_emu.o
+ .debug_aranges
+                0x00000200       0x40 ./emlib/em_gpio.o
+ .debug_aranges
+                0x00000240       0x50 ./emlib/em_i2c.o
+ .debug_aranges
+                0x00000290       0x18 ./emlib/em_int.o
+ .debug_aranges
+                0x000002a8       0x80 ./emlib/em_leuart.o
+ .debug_aranges
+                0x00000328       0x50 ./emlib/em_rtc.o
+ .debug_aranges
+                0x00000378       0x28 ./emlib/em_system.o
+ .debug_aranges
+                0x000003a0       0x38 ./emlib/em_timer.o
+ .debug_aranges
+                0x000003d8       0xb0 ./emlib/em_usart.o
+ .debug_aranges
+                0x00000488       0x38 ./emlib/em_wdog.o
+ .debug_aranges
+                0x000004c0       0x18 ./Source Files/dev_plat/var.o
+ .debug_aranges
+                0x000004d8       0x30 ./Source Files/dev_plat/tpos/low_power_tick_management.o
+ .debug_aranges
+                0x00000508       0x48 ./Source Files/dev_plat/tpos/sleep.o
+ .debug_aranges
+                0x00000550       0x38 ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .debug_aranges
+                0x00000588       0x40 ./Source Files/dev_plat/tpos/tpos_list.o
+ .debug_aranges
+                0x000005c8       0x90 ./Source Files/dev_plat/tpos/tpos_port.o
+ .debug_aranges
+                0x00000658       0xa0 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .debug_aranges
+                0x000006f8      0x128 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .debug_aranges
+                0x00000820       0x68 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .debug_aranges
+                0x00000888       0x50 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .debug_aranges
+                0x000008d8      0x100 ./Source Files/app_plat/InitDevice.o
+ .debug_aranges
+                0x000009d8       0x40 ./Source Files/app_plat/app_task.o
+ .debug_aranges
+                0x00000a18       0x28 ./Source Files/app_plat/interrupt.o
+ .debug_aranges
+                0x00000a40       0x38 ./Source Files/app_plat/main.o
+ .debug_aranges
+                0x00000a78       0x20 ./CMSIS/efm32g/startup_gcc_efm32g.o
+ .debug_aranges
+                0x00000a98       0x68 ./CMSIS/efm32g/system_efm32g.o
+
+.debug_line     0x00000000     0x7873
+ .debug_line    0x00000000      0x16f ./emlib/dmactrl.o
+ .debug_line    0x0000016f      0x38a ./emlib/em_adc.o
+ .debug_line    0x000004f9      0x915 ./emlib/em_cmu.o
+ .debug_line    0x00000e0e      0x5e8 ./emlib/em_dma.o
+ .debug_line    0x000013f6      0x3ca ./emlib/em_emu.o
+ .debug_line    0x000017c0      0x2bc ./emlib/em_gpio.o
+ .debug_line    0x00001a7c      0x53f ./emlib/em_i2c.o
+ .debug_line    0x00001fbb       0xf6 ./emlib/em_int.o
+ .debug_line    0x000020b1      0x3d9 ./emlib/em_leuart.o
+ .debug_line    0x0000248a      0x2d4 ./emlib/em_rtc.o
+ .debug_line    0x0000275e      0x217 ./emlib/em_system.o
+ .debug_line    0x00002975      0x349 ./emlib/em_timer.o
+ .debug_line    0x00002cbe      0x5d9 ./emlib/em_usart.o
+ .debug_line    0x00003297      0x254 ./emlib/em_wdog.o
+ .debug_line    0x000034eb       0xc9 ./Source Files/dev_plat/var.o
+ .debug_line    0x000035b4      0x365 ./Source Files/dev_plat/tpos/low_power_tick_management.o
+ .debug_line    0x00003919      0x32b ./Source Files/dev_plat/tpos/sleep.o
+ .debug_line    0x00003c44      0x1f7 ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .debug_line    0x00003e3b      0x1b2 ./Source Files/dev_plat/tpos/tpos_list.o
+ .debug_line    0x00003fed      0x2d6 ./Source Files/dev_plat/tpos/tpos_port.o
+ .debug_line    0x000042c3      0x6b8 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .debug_line    0x0000497b      0xb8f ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .debug_line    0x0000550a      0x539 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .debug_line    0x00005a43      0x3cb ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .debug_line    0x00005e0e      0x9c5 ./Source Files/app_plat/InitDevice.o
+ .debug_line    0x000067d3      0x468 ./Source Files/app_plat/app_task.o
+ .debug_line    0x00006c3b      0x3ad ./Source Files/app_plat/interrupt.o
+ .debug_line    0x00006fe8      0x4e0 ./Source Files/app_plat/main.o
+ .debug_line    0x000074c8       0x70 ./CMSIS/efm32g/startup_gcc_efm32g.o
+ .debug_line    0x00007538      0x33b ./CMSIS/efm32g/system_efm32g.o
+
+.debug_str      0x00000000     0x55b3
+ .debug_str     0x00000000      0x1aa ./emlib/dmactrl.o
+                                0x1eb (size before relaxing)
+ .debug_str     0x000001aa      0x944 ./emlib/em_adc.o
+                                0xaf3 (size before relaxing)
+ .debug_str     0x00000aee      0x6f6 ./emlib/em_cmu.o
+                                0xb6b (size before relaxing)
+ .debug_str     0x000011e4      0x780 ./emlib/em_dma.o
+                                0xbf2 (size before relaxing)
+ .debug_str     0x00001964      0x1f5 ./emlib/em_emu.o
+                                0x511 (size before relaxing)
+ .debug_str     0x00001b59      0x355 ./emlib/em_gpio.o
+                                0x556 (size before relaxing)
+ .debug_str     0x00001eae      0x334 ./emlib/em_i2c.o
+                                0x75b (size before relaxing)
+ .debug_str     0x000021e2       0x1e ./emlib/em_int.o
+                                0x1b7 (size before relaxing)
+ .debug_str     0x00002200      0x297 ./emlib/em_leuart.o
+                                0x6bb (size before relaxing)
+ .debug_str     0x00002497       0xcf ./emlib/em_rtc.o
+                                0x2b3 (size before relaxing)
+ .debug_str     0x00002566       0xaa ./emlib/em_system.o
+                                0x289 (size before relaxing)
+ .debug_str     0x00002610      0x6ff ./emlib/em_timer.o
+                                0x8f9 (size before relaxing)
+ .debug_str     0x00002d0f      0x690 ./emlib/em_usart.o
+                                0xb15 (size before relaxing)
+ .debug_str     0x0000339f      0x1d2 ./emlib/em_wdog.o
+                                0x3c7 (size before relaxing)
+ .debug_str     0x00003571       0xf9 ./Source Files/dev_plat/var.o
+                                0x260 (size before relaxing)
+ .debug_str     0x0000366a      0x161 ./Source Files/dev_plat/tpos/low_power_tick_management.o
+                                0x971 (size before relaxing)
+ .debug_str     0x000037cb      0x162 ./Source Files/dev_plat/tpos/sleep.o
+                                0x436 (size before relaxing)
+ .debug_str     0x0000392d       0xcd ./Source Files/dev_plat/tpos/tpos_heap_1.o
+                                0x269 (size before relaxing)
+ .debug_str     0x000039fa      0x15e ./Source Files/dev_plat/tpos/tpos_list.o
+                                0x2f2 (size before relaxing)
+ .debug_str     0x00003b58      0x211 ./Source Files/dev_plat/tpos/tpos_port.o
+                                0x429 (size before relaxing)
+ .debug_str     0x00003d69      0x536 ./Source Files/dev_plat/tpos/tpos_queue.o
+                                0x87e (size before relaxing)
+ .debug_str     0x0000429f      0x6af ./Source Files/dev_plat/tpos/tpos_tasks.o
+                                0xc78 (size before relaxing)
+ .debug_str     0x0000494e      0x3dd ./Source Files/dev_plat/tpos/tpos_timers.o
+                                0x8e5 (size before relaxing)
+ .debug_str     0x00004d2b      0x189 ./Source Files/dev_plat/driver/RS232/rs_232.o
+                                0x468 (size before relaxing)
+ .debug_str     0x00004eb4      0x45f ./Source Files/app_plat/InitDevice.o
+                               0x2551 (size before relaxing)
+ .debug_str     0x00005313      0x125 ./Source Files/app_plat/app_task.o
+                                0x626 (size before relaxing)
+ .debug_str     0x00005438       0x68 ./Source Files/app_plat/interrupt.o
+                                0x43e (size before relaxing)
+ .debug_str     0x000054a0       0x5f ./Source Files/app_plat/main.o
+                                0x772 (size before relaxing)
+ .debug_str     0x000054ff       0xb4 ./CMSIS/efm32g/system_efm32g.o
+                                0x44c (size before relaxing)
+
+.debug_loc      0x00000000     0xaae8
+ .debug_loc     0x00000000      0x76e ./emlib/em_adc.o
+ .debug_loc     0x0000076e     0x1e98 ./emlib/em_cmu.o
+ .debug_loc     0x00002606     0x116c ./emlib/em_dma.o
+ .debug_loc     0x00003772      0x249 ./emlib/em_emu.o
+ .debug_loc     0x000039bb      0x52f ./emlib/em_gpio.o
+ .debug_loc     0x00003eea      0xd09 ./emlib/em_i2c.o
+ .debug_loc     0x00004bf3      0x5ba ./emlib/em_leuart.o
+ .debug_loc     0x000051ad      0x2f7 ./emlib/em_rtc.o
+ .debug_loc     0x000054a4       0xa5 ./emlib/em_system.o
+ .debug_loc     0x00005549      0x148 ./emlib/em_timer.o
+ .debug_loc     0x00005691      0xc33 ./emlib/em_usart.o
+ .debug_loc     0x000062c4      0x170 ./emlib/em_wdog.o
+ .debug_loc     0x00006434       0x4c ./Source Files/dev_plat/tpos/low_power_tick_management.o
+ .debug_loc     0x00006480      0x196 ./Source Files/dev_plat/tpos/sleep.o
+ .debug_loc     0x00006616       0xce ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .debug_loc     0x000066e4       0xc9 ./Source Files/dev_plat/tpos/tpos_list.o
+ .debug_loc     0x000067ad      0x125 ./Source Files/dev_plat/tpos/tpos_port.o
+ .debug_loc     0x000068d2     0x11fb ./Source Files/dev_plat/tpos/tpos_queue.o
+ .debug_loc     0x00007acd     0x16fa ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .debug_loc     0x000091c7      0xc41 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .debug_loc     0x00009e08      0x232 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .debug_loc     0x0000a03a      0x2aa ./Source Files/app_plat/InitDevice.o
+ .debug_loc     0x0000a2e4      0x194 ./Source Files/app_plat/app_task.o
+ .debug_loc     0x0000a478       0x20 ./Source Files/app_plat/interrupt.o
+ .debug_loc     0x0000a498      0x2e7 ./Source Files/app_plat/main.o
+ .debug_loc     0x0000a77f      0x369 ./CMSIS/efm32g/system_efm32g.o
+
+.debug_ranges   0x00000000     0x2030
+ .debug_ranges  0x00000000       0xc8 ./emlib/em_adc.o
+ .debug_ranges  0x000000c8      0x508 ./emlib/em_cmu.o
+ .debug_ranges  0x000005d0      0x1c0 ./emlib/em_dma.o
+ .debug_ranges  0x00000790       0xb8 ./emlib/em_emu.o
+ .debug_ranges  0x00000848       0x60 ./emlib/em_gpio.o
+ .debug_ranges  0x000008a8       0xf8 ./emlib/em_i2c.o
+ .debug_ranges  0x000009a0      0x160 ./emlib/em_leuart.o
+ .debug_ranges  0x00000b00      0x198 ./emlib/em_rtc.o
+ .debug_ranges  0x00000c98       0x18 ./emlib/em_system.o
+ .debug_ranges  0x00000cb0       0x78 ./emlib/em_timer.o
+ .debug_ranges  0x00000d28      0x1f8 ./emlib/em_usart.o
+ .debug_ranges  0x00000f20       0x28 ./emlib/em_wdog.o
+ .debug_ranges  0x00000f48       0x98 ./Source Files/dev_plat/tpos/low_power_tick_management.o
+ .debug_ranges  0x00000fe0       0xa0 ./Source Files/dev_plat/tpos/sleep.o
+ .debug_ranges  0x00001080       0x28 ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .debug_ranges  0x000010a8       0x30 ./Source Files/dev_plat/tpos/tpos_list.o
+ .debug_ranges  0x000010d8       0xa8 ./Source Files/dev_plat/tpos/tpos_port.o
+ .debug_ranges  0x00001180      0x190 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .debug_ranges  0x00001310      0x4a8 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .debug_ranges  0x000017b8      0x298 ./Source Files/dev_plat/tpos/tpos_timers.o
+ .debug_ranges  0x00001a50       0x40 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .debug_ranges  0x00001a90      0x318 ./Source Files/app_plat/InitDevice.o
+ .debug_ranges  0x00001da8       0x98 ./Source Files/app_plat/app_task.o
+ .debug_ranges  0x00001e40       0x30 ./Source Files/app_plat/interrupt.o
+ .debug_ranges  0x00001e70       0x60 ./Source Files/app_plat/main.o
+ .debug_ranges  0x00001ed0      0x160 ./CMSIS/efm32g/system_efm32g.o
+
+.debug_frame    0x00000000     0x19a4
+ .debug_frame   0x00000000       0xb4 ./emlib/em_adc.o
+ .debug_frame   0x000000b4      0x1c0 ./emlib/em_cmu.o
+ .debug_frame   0x00000274      0x194 ./emlib/em_dma.o
+ .debug_frame   0x00000408       0x9c ./emlib/em_emu.o
+ .debug_frame   0x000004a4       0x78 ./emlib/em_gpio.o
+ .debug_frame   0x0000051c       0xc4 ./emlib/em_i2c.o
+ .debug_frame   0x000005e0      0x108 ./emlib/em_leuart.o
+ .debug_frame   0x000006e8       0x88 ./emlib/em_rtc.o
+ .debug_frame   0x00000770       0x30 ./emlib/em_system.o
+ .debug_frame   0x000007a0       0x88 ./emlib/em_timer.o
+ .debug_frame   0x00000828      0x1b8 ./emlib/em_usart.o
+ .debug_frame   0x000009e0       0x50 ./emlib/em_wdog.o
+ .debug_frame   0x00000a30       0x58 ./Source Files/dev_plat/tpos/low_power_tick_management.o
+ .debug_frame   0x00000a88       0x8c ./Source Files/dev_plat/tpos/sleep.o
+ .debug_frame   0x00000b14       0x5c ./Source Files/dev_plat/tpos/tpos_heap_1.o
+ .debug_frame   0x00000b70       0x78 ./Source Files/dev_plat/tpos/tpos_list.o
+ .debug_frame   0x00000be8      0x12c ./Source Files/dev_plat/tpos/tpos_port.o
+ .debug_frame   0x00000d14      0x1d0 ./Source Files/dev_plat/tpos/tpos_queue.o
+ .debug_frame   0x00000ee4      0x388 ./Source Files/dev_plat/tpos/tpos_tasks.o
+ .debug_frame   0x0000126c      0x11c ./Source Files/dev_plat/tpos/tpos_timers.o
+ .debug_frame   0x00001388       0xa8 ./Source Files/dev_plat/driver/RS232/rs_232.o
+ .debug_frame   0x00001430      0x2b4 ./Source Files/app_plat/InitDevice.o
+ .debug_frame   0x000016e4       0x98 ./Source Files/app_plat/app_task.o
+ .debug_frame   0x0000177c       0x38 ./Source Files/app_plat/interrupt.o
+ .debug_frame   0x000017b4       0x84 ./Source Files/app_plat/main.o
+ .debug_frame   0x00001838       0xb0 ./CMSIS/efm32g/system_efm32g.o
+ .debug_frame   0x000018e8       0x28 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-exit.o)
+ .debug_frame   0x00001910       0x2c c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-init.o)
+ .debug_frame   0x0000193c       0x28 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00001964       0x20 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libc_s.a(lib_a-memset.o)
+ .debug_frame   0x00001984       0x20 c:/siliconlabs/simplicitystudio/v3/developer/toolchains/gnu_arm/4.8_2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libnosys.a(_exit.o)

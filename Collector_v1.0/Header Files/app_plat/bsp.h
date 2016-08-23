@@ -54,6 +54,8 @@
 #include "gpio.h"
 #include "var.h"
 
+#include "RF_include.h"
+
 
 //======================================================
 // PreDefine
@@ -64,7 +66,7 @@
 #define DMA_CHANNEL    0	//DMA通道0
 #define NUM_SAMPLES    3	//采样数3
 
-#define PWM_FREQ 	   4000
+#define PWM_FREQ 	   40000
 //=======================================================
 
 //======================================================
@@ -73,6 +75,7 @@
 extern SemaphoreHandle_t  Sem_duanlu; //短路故障信号量
 extern SemaphoreHandle_t  Sem_jiedi;      //接地故障信号量
 extern SemaphoreHandle_t  Sem_lowbat; //采集单元电压低信号量
+extern SemaphoreHandle_t  Sem_Fault;
 
 extern tagSystemInfo gSystemInfo;
 

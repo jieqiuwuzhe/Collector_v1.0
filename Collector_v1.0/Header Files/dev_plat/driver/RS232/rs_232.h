@@ -12,37 +12,31 @@
 #define SIZE_OF_RS232_RECV_BUFFER  1200
 
 
-
-typedef enum
-{
-  gps_uart,
-  gprs_uart,
-  weihu_uart
-}Uart_Type;
-
-void Uart_Write(Uart_Type uart, uint8_t *sdata, uint16_t len);
-void Uart_Read (Uart_Type uart, uint8_t *rdata, uint16_t len);
-
-INT16S gps_232_read_byte(void);
-
-
 typedef struct  tagObjDrvChannel {
 
     //Driver 层
     //接收
-    volatile INT16U  recv_ptr;
-    INT16U  read_ptr;      //考虑双协议的支持， 这里可以使用数组。
+    volatile INT16U  recv_ptr; //缓冲接收指针
+    INT16U  read_ptr;    //缓冲提取指针
     INT16U  state;
     INT16U  recv_len;
 
-    //发送，这里应该需要一个信号量????
+    //发送
     volatile INT16U  drv_send_len;
     INT8U   *drv_send_data;
     INT8U   *drv_send_state;
 
-    INT8U    recv_buffer[SIZE_OF_RS232_RECV_BUFFER];
+    INT8U    recv_buffer[SIZE_OF_RS232_RECV_BUFFER]; //缓冲提取数组
 }objDrvChannel;
 
+
+
+
+void drv_gprs_rs232_init(void);
+void drv_gps_rs232_init(void);
+INT16S drv_gprs_rs232_read_byte(void);
+INT16S drv_gps_232_read_byte(void);
+void drv_gprs_send_byte(const INT8U data);
 
 
 

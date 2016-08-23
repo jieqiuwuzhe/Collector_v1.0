@@ -24,7 +24,11 @@ Source\ Files/dev_plat/tpos \
 Source\ Files/dev_plat/fun \
 Source\ Files/dev_plat/driver/flash \
 Source\ Files/dev_plat/driver/RS232 \
-Source\ Files/dev_plat/driver/RF \
+Source\ Files/dev_plat/driver/RF/RF_PROTOCOL \
+Source\ Files/dev_plat/driver/RF/RF_MID \
+Source\ Files/dev_plat/driver/RF/RF_MAC \
+Source\ Files/dev_plat/driver/RF/RF_DB \
+Source\ Files/dev_plat/driver/RF/RF_APP \
 Source\ Files/dev_plat/driver/R8025T \
 Source\ Files/dev_plat/driver/GPS \
 Source\ Files/dev_plat/driver/GPIO \

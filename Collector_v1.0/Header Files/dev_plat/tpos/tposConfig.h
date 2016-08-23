@@ -25,7 +25,7 @@ extern "C" {
  * or configUSE_SLEEP_MODE_IN_IDLE set to 1 :
  * 1 - EM1, 2 - EM2, 3 - EM3 is not available on this CPU, because
  * timer doesn't work in EM3 mode */
-#define configSLEEP_MODE           ( 2 )
+#define configSLEEP_MODE           ( 0 )
 /* Definition used only if configUSE_TICKLESS_IDLE == 0 */
 #define configUSE_SLEEP_MODE_IN_IDLE       ( 1 )
 
@@ -49,7 +49,7 @@ extern "C" {
 #elif (  ( configSLEEP_MODE == 3 ) && ( configUSE_TICKLESS_IDLE == 1 || configUSE_SLEEP_MODE_IN_IDLE == 1 ) )
 #define configTICK_RATE_HZ    ( 40 )
 #else
-#define configTICK_RATE_HZ    ( 1000 )
+#define configTICK_RATE_HZ    ( 500 )//设置成2ms一个tick
 #endif
 
 /* Definition used by Keil to replace default system clock source when we use EM2 or EM3 mode. */
